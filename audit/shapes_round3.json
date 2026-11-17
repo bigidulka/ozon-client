@@ -1,0 +1,346 @@
+{
+  "videos": {
+    "pageType": "pdp_reviews",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/videos/",
+    "n": 46,
+    "families": [
+      "addressBookBarWeb",
+      "breadCrumbs",
+      "catalogMenu",
+      "column",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tagListModal",
+      "tapTags",
+      "wallpaper",
+      "webAddToCart",
+      "webCharacteristics",
+      "webPdpGrid",
+      "webPrice",
+      "webProductMini",
+      "webProductTabs",
+      "webReviewGallery"
+    ],
+    "bits": {
+      "webReviewGallery": [
+        "media",
+        "reviews",
+        "paging",
+        "products",
+        "actions",
+        "lmtParams",
+        "constants",
+        "reviewAbuseReasons",
+        "commentAbuseReasons",
+        "photoAbuseReasons",
+        "videoAbuseReasons",
+        "itemId"
+      ],
+      "webProductTabs": [
+        "activeValueTab",
+        "tabs",
+        "lmtParams"
+      ]
+    },
+    "tabs": [
+      {
+        "title": "Характеристики",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features"
+      },
+      {
+        "title": "Отзывы",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews"
+      },
+      {
+        "title": "Вопросы",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions"
+      },
+      {
+        "title": "Фото и видео",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/videos"
+      }
+    ]
+  },
+  "reviews_pdp_part": {
+    "pageType": "pdp_reviews",
+    "url": "/product/3094054833/reviews/pdp-part",
+    "n": 15,
+    "families": [
+      "column",
+      "contextQuestionsStatistic",
+      "createReviewButton",
+      "paginator",
+      "row",
+      "separator",
+      "webListPhotos",
+      "webReviewProductScore",
+      "webReviewsVariantMode"
+    ],
+    "bits": {
+      "webListPhotos": [
+        "mediaContent",
+        "moreMedia",
+        "cellTrackingInfo",
+        "lmtParams"
+      ],
+      "paginator": [
+        "nextPage",
+        "size",
+        "offsetTop",
+        "fetchType",
+        "layoutContainer"
+      ]
+    }
+  },
+  "question_detail": {
+    "pageType": "product_question",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/question/01a11261-dd34-7055-9460-2baaae24dc43/",
+    "n": 40,
+    "families": [
+      "addressBookBarWeb",
+      "breadCrumbs",
+      "catalogMenu",
+      "column",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tapTags",
+      "wallpaper",
+      "webAddToCart",
+      "webCharacteristics",
+      "webPdpGrid",
+      "webPrice",
+      "webProductMini"
+    ]
+  },
+  "reviews_sort_score": {
+    "pageType": "pdp_reviews",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews/?sort=score_desc",
+    "n": 55,
+    "families": [
+      "addressBookBarWeb",
+      "breadCrumbs",
+      "catalogMenu",
+      "column",
+      "container",
+      "createReviewButton",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "reviewsTitle",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tagListModal",
+      "tapTags",
+      "wallpaper",
+      "webAddToCart",
+      "webCharacteristics",
+      "webListPhotos",
+      "webListReviews",
+      "webPdpGrid",
+      "webPrice",
+      "webProductMini",
+      "webProductTabs",
+      "webReviewGallery",
+      "webReviewProductScore"
+    ],
+    "bits": {
+      "webListPhotos": [],
+      "webReviewGallery": [],
+      "webListReviews": [
+        "products",
+        "user",
+        "filters",
+        "author",
+        "uri",
+        "requestedPath",
+        "reviews",
+        "sortings",
+        "itemId",
+        "paging",
+        "pageType",
+        "productScore",
+        "hideFirstCommentView",
+        "isShowFullText",
+        "reviewAbuseReasons",
+        "commentAbuseReasons",
+        "fullRequestUrl",
+        "actions",
+        "shelfMode",
+        "constants",
+        "lmtParams",
+        "cellTrackingInfo"
+      ],
+      "webProductTabs": [
+        "activeValueTab",
+        "tabs",
+        "lmtParams"
+      ]
+    },
+    "active_sort": [
+      {
+        "name": "с высокой оценкой",
+        "value": "score_desc",
+        "active": true
+      }
+    ],
+    "page": 1,
+    "tabs": [
+      {
+        "title": "Характеристики",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features"
+      },
+      {
+        "title": "Отзывы",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews"
+      },
+      {
+        "title": "Вопросы",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions"
+      },
+      {
+        "title": "Фото и видео",
+        "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/videos"
+      }
+    ]
+  },
+  "premium": {
+    "error": "TransportError: fetch failed in page: TypeError: Failed to fetch"
+  },
+  "my_chat": {
+    "pageType": "communications",
+    "url": "/my/chat/",
+    "n": 18,
+    "families": [
+      "addressBookBarWeb",
+      "catalogMenu",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "loginButton",
+      "myGuest",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "tapTags",
+      "wallpaper"
+    ]
+  },
+  "my_points": {
+    "pageType": "account",
+    "url": "/my/points/",
+    "n": 18,
+    "families": [
+      "addressBookBarWeb",
+      "catalogMenu",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "loginButton",
+      "myGuest",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "tapTags",
+      "wallpaper"
+    ]
+  },
+  "my_questions": {
+    "pageType": "account",
+    "url": "/my/questions/",
+    "n": 21,
+    "families": [
+      "addressBookBarWeb",
+      "catalogMenu",
+      "column",
+      "container",
+      "customHtml",
+      "favoriteCounter",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "island",
+      "menu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "tapTags",
+      "title",
+      "wallpaper"
+    ]
+  },
+  "special": {
+    "error": "NotFound: 404 https://ozon.by/api/entrypoint-api.bx/page/json/v2?url=%2Fspecial%2F"
+  },
+  "promo": {
+    "error": "NotFound: 404 https://ozon.by/api/entrypoint-api.bx/page/json/v2?url=%2Fpromo%2F"
+  },
+  "info_delivery": {
+    "error": "NotFound: 404 https://ozon.by/api/entrypoint-api.bx/page/json/v2?url=%2Finfo%2Fdostavka%2F"
+  },
+  "context": {
+    "pageType": "pdp",
+    "url": "/context/detail/id/0/?sh=8XNzq8vkSA",
+    "n": 17,
+    "families": [
+      "addressBookBarWeb",
+      "catalogMenu",
+      "column",
+      "container",
+      "error",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "tapTags"
+    ]
+  }
+}

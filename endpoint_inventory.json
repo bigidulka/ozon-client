@@ -1,0 +1,1340 @@
+[
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/addComment",
+    "params": [],
+    "purpose": "Add a comment on a review or question.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/changeEmailV2",
+    "params": [],
+    "purpose": "Change the account email (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/changePhoneDelayedV2",
+    "params": [],
+    "purpose": "Schedule an account phone change (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/changePhoneV2",
+    "params": [],
+    "purpose": "Change the account phone (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/checkInn",
+    "params": [],
+    "purpose": "INN lookup/check. Whether the POST only reads is unconfirmed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/cmsGetPromoIQOS",
+    "params": [
+      "userName",
+      "userPhone",
+      "telezakaz"
+    ],
+    "purpose": "Submit a promo lead (userName, userPhone, telezakaz).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "cms-desktop-horizontal-menu.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/createCommentV2",
+    "params": [],
+    "purpose": "Create a review/question comment (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/createOrder",
+    "params": [],
+    "purpose": "Create an order. GET, but the action is a checkout mutation.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-mobile-one-click-button-v3.js CheckoutComposerService.createOrder",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/emailOtpEntry",
+    "params": [],
+    "purpose": "Email one-time-password sign-in.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/fastEntry",
+    "params": [],
+    "purpose": "Fast sign-in.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/fastEntryV3",
+    "params": [],
+    "purpose": "Fast sign-in (v3).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteCheckItems",
+    "params": [],
+    "purpose": "Check whether items are in favourites. Read-shaped POST (a membership query).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteCopySharedList",
+    "params": [],
+    "purpose": "Copy a shared favourites list into the user's lists.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteCountItems",
+    "params": [],
+    "purpose": "Count favourite items. Read-shaped POST.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteCreateList",
+    "params": [],
+    "purpose": "Create a favourites list.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/favoriteGetItems/{param}",
+    "params": [
+      "param"
+    ],
+    "purpose": "Read items in a favourites list. Path placeholder kept as {param}.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteGetSharedItems",
+    "params": [],
+    "purpose": "Read items of a shared favourites list. Read-shaped POST.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteGetSharedItemsV2/{param}",
+    "params": [
+      "param"
+    ],
+    "purpose": "Read shared-list items (v2). Path placeholder kept as {param}. Read-shaped POST.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/favoriteGetSkus/{param}",
+    "params": [
+      "param"
+    ],
+    "purpose": "Read SKUs for a favourites list. Path placeholder kept as {param}.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteListRemove",
+    "params": [],
+    "purpose": "Remove a favourites list.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/favoriteLists",
+    "params": [],
+    "purpose": "List the user's favourites lists.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteListsBySku",
+    "params": [],
+    "purpose": "Read which favourites lists contain a SKU. Read-shaped POST.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteRenameList",
+    "params": [],
+    "purpose": "Rename a favourites list.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/favoriteShareList",
+    "params": [],
+    "purpose": "Share a favourites list.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/favoriteSuggestListTitle",
+    "params": [],
+    "purpose": "Suggest a title for a new favourites list.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/formatPhoneNumber",
+    "params": [],
+    "purpose": "Format a phone number. Whether the POST only transforms input is unconfirmed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "autosplit-teams_udm_components_form-field_phone_vue.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/getCompanyList",
+    "params": [],
+    "purpose": "Company list lookup. Whether the POST only reads is unconfirmed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/getNextHammerWaveSecondsLeft",
+    "params": [],
+    "purpose": "Campaign countdown read (seconds left until the next hammer wave). POST, classified as a read.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "marketing-big-promo-counter-navbar-desktop.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/getPhoneCountriesInfo",
+    "params": [],
+    "purpose": "Phone country metadata.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/getPhoneCountriesInfoV2",
+    "params": [],
+    "purpose": "Phone country metadata (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/getSecondsLeftForCampaign",
+    "params": [],
+    "purpose": "Campaign countdown read (seconds remaining). POST, classified as a read.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "marketing-big-promo-counter-navbar-desktop.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/goCheckoutLite",
+    "params": [],
+    "purpose": "Start lite checkout.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-mobile-one-click-button-v3.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/loadComment",
+    "params": [],
+    "purpose": "Load a comment thread. Findings group it with review mutations; whether the POST only reads is unconfirmed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/logout",
+    "params": [],
+    "purpose": "Log out the current session.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/logoutOnAll",
+    "params": [],
+    "purpose": "Log out all sessions.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/minifyURL",
+    "params": [],
+    "purpose": "Minify a URL (PdpActionService). Treated as a write.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-all-sharing-button-v3.js, pdp-mobile-add-to-cart-v10.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/ozonIdAuthToken",
+    "params": [],
+    "purpose": "Ozon ID auth-token exchange.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/ozonIdAuthUrl",
+    "params": [],
+    "purpose": "Ozon ID auth URL.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/ozonidUnbindSeller",
+    "params": [],
+    "purpose": "Unbind a seller from the Ozon ID account.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/patchUserAccount",
+    "params": [],
+    "purpose": "Patch the user account.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/patchUserAccountV2",
+    "params": [],
+    "purpose": "Patch the user account (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/pdpCertificatePrepareImageV1?id={id}",
+    "params": [
+      "id"
+    ],
+    "purpose": "Prepare a PDP certificate image.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-all-sharing-button-v3.js, pdp-mobile-add-to-cart-v10.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/pdpGetStarsBalance?product_id={product_id}",
+    "params": [
+      "product_id"
+    ],
+    "purpose": "Read the stars balance for a product.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-all-sharing-button-v3.js, pdp-mobile-add-to-cart-v10.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/putUserLegalDetails",
+    "params": [],
+    "purpose": "Save legal-entity details (put).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/registerSearchEvent",
+    "params": [],
+    "purpose": "Record a search event.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "search-desktop-search-bar-desktop.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/registrationV1",
+    "params": [],
+    "purpose": "Register an account (v1).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-desktop-profile-menu-anonymous.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/removeComment",
+    "params": [],
+    "purpose": "Delete a comment.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/removeReview",
+    "params": [],
+    "purpose": "Delete a review.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/reportComment",
+    "params": [],
+    "purpose": "Report a comment.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/reportReview",
+    "params": [],
+    "purpose": "Report a review.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/rpDeleteMyReviewV2",
+    "params": [],
+    "purpose": "Delete the signed-in user's review (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/rpGetCommentsByReviewUuid",
+    "params": [
+      "reviewUuid",
+      "sku",
+      "rootSku",
+      "limit",
+      "offset"
+    ],
+    "purpose": "Read comments for a review uuid. The only POST in the client: loadMoreComments sends {reviewUuid, sku, rootSku, limit, offset} and reads comments back. It does not create, vote, or delete.",
+    "response_shape": "{comments: [{uuid, author, content|text, createdAt, parentUuid, rootParentUuid}]}",
+    "source": "live+bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js loadMoreComments; 2026-10-16 POST returned HTTP 200, 1 comment, for review 019c8994-f715-7f2d-ab5a-767f567141ff on SKU 3094054833",
+    "implemented": true,
+    "verified_live": true,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/rpIgnoreItem",
+    "params": [],
+    "purpose": "Ignore a review/question item for the current user.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/rpImageUpload",
+    "params": [],
+    "purpose": "Upload an image attached to a review.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/rpSetOpinionUsefulnessV2",
+    "params": [],
+    "purpose": "Set whether a review opinion was useful.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/saveUserLegalDetails",
+    "params": [],
+    "purpose": "Save legal-entity details.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/sberIdAuthRedirect",
+    "params": [],
+    "purpose": "Start a Sber ID auth redirect.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/sberIdAuthUri",
+    "params": [],
+    "purpose": "Sber ID auth URI.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/sberIdEntryV1",
+    "params": [],
+    "purpose": "Sber ID sign-in (v1).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/setPassword",
+    "params": [],
+    "purpose": "Set the account password.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/setPasswordOld",
+    "params": [],
+    "purpose": "Set the account password (legacy).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/setUserCookies",
+    "params": [],
+    "purpose": "Persist user cookie preferences (CookiesActions.setCookie).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "main.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/setUserEmailAfterRegistration",
+    "params": [],
+    "purpose": "Set email after registration.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/subscriptionsAllUnsubscribe",
+    "params": [],
+    "purpose": "Unsubscribe from all stock/notification subscriptions.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-subscriptions__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/subscriptionsSubscribeToStock",
+    "params": [],
+    "purpose": "Subscribe to back-in-stock notifications.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-subscriptions__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/subscriptionsUnsubscribeFromStock",
+    "params": [],
+    "purpose": "Unsubscribe from back-in-stock notifications.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-subscriptions__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/summary",
+    "params": [],
+    "purpose": "Cart summary v1. host.js reduces the array to an id map. The client calls summaryV2 instead.",
+    "response_shape": "array<{id, ...}> (client reduces by id); not captured live",
+    "source": "bundle",
+    "evidence": "host.js, bx-fe__common-feature-cart__1.7.8__index.js CartService.summary",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/summaryV2",
+    "params": [],
+    "purpose": "Cart/session summary. Anonymous live probe described as {}. Also the session-warmth probe in auth.py.",
+    "response_shape": "{} for an anonymous session (page_inventory prose); host.js returns the JSON unchanged",
+    "source": "live+bundle",
+    "evidence": "host.js CartService.summaryV2; src/ozon_client/session.py summary(); audit/page_inventory.md",
+    "implemented": true,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/switchUser",
+    "params": [],
+    "purpose": "Switch the active user on the session.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/translateProductAttributesAction",
+    "params": [],
+    "purpose": "Translate product attributes. Bundle findings class it as read-shaped.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-all-sharing-button-v3.js, pdp-mobile-add-to-cart-v10.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/unbindSocial",
+    "params": [],
+    "purpose": "Unbind a social login.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/uploadPassport",
+    "params": [],
+    "purpose": "Upload a passport document.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/uploadResidence",
+    "params": [],
+    "purpose": "Upload a residence document.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "udm-commons.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/addToCart",
+    "params": [
+      "miniapp"
+    ],
+    "purpose": "Add an item to the cart. miniapp is appended only when that query is present on the page.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "host.js, bx-fe__common-feature-cart__1.7.8__index.js CartService.addToCart",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/v2/catalogMenuItemV1",
+    "params": [],
+    "purpose": "One catalogue-menu item. Query object is passed through unnamed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "catalog-menu-all-horizontal-category-menu-v1.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/v2/catalogMenuServicesV1",
+    "params": [],
+    "purpose": "Catalogue-menu services block. Query object is passed through unnamed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "catalog-menu-all-horizontal-category-menu-v1.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/v2/categoryChildV3",
+    "params": [
+      "menuId",
+      "categoryId",
+      "hash"
+    ],
+    "purpose": "Child categories for a catalogue menu node.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "cms-desktop-catalog-menu.js getCategoryChildV3",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/favoriteBatchAddItems",
+    "params": [],
+    "purpose": "Add many items to favourites.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/favoriteBatchDeleteItems",
+    "params": [],
+    "purpose": "Remove many items from favourites.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/favoriteDeleteList",
+    "params": [],
+    "purpose": "Delete a favourites list (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/favoriteListAdd",
+    "params": [],
+    "purpose": "Add an item to a favourites list (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "bx-fe__common-feature-favorites__1.4.10__index.js, bx-fe__common-feature-favorites__1.4.12__index.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/getSearchTapTags",
+    "params": [],
+    "purpose": "Search tap-tag suggestions. Findings call it a read; gaps.md groups the POST with unproven calls, so whether it only reads is unconfirmed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "search-desktop-search-bar-desktop.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/v2/getServicesV1",
+    "params": [],
+    "purpose": "Catalogue services list. Called with an empty query object.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "cms-desktop-catalog-menu.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/v2/horizontalContentV1",
+    "params": [
+      "menuId"
+    ],
+    "purpose": "Horizontal menu column for a menuId. Page inventory describes one live GET.",
+    "response_shape": "{data:{items, hoverColor, menuId}} (page_inventory prose; body not in audit/raw)",
+    "source": "live+bundle",
+    "evidence": "catalog-menu-all-horizontal-category-menu-v1.js; audit/page_inventory.md",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/pdpViewProduct?product_id={product_id}",
+    "params": [
+      "product_id"
+    ],
+    "purpose": "Product-view beacon fired from sendPdpView. Findings also list it as read-shaped, so whether it only reads is unconfirmed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-mobile-add-to-cart-v10.js, pdp-mobile-product-main.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/rpReportAbuseV2",
+    "params": [],
+    "purpose": "Report abuse on a review or comment (v2).",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/v2/shellHorizontalMenuGetChildV1",
+    "params": [
+      "menuId"
+    ],
+    "purpose": "Children of a horizontal shell menu node. Client menu_children() sends menuId.",
+    "response_shape": "{trackingInfo, data} (gaps.md; body not stored in audit/raw)",
+    "source": "live+bundle",
+    "evidence": "cms-desktop-horizontal-menu.js; src/ozon_client/session.py menu_children(); audit/gaps.md",
+    "implemented": true,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/v2/{path}",
+    "params": [
+      "path"
+    ],
+    "purpose": "Generic GET under _action/v2 (PdpActionV2Service.pdpGetRequest). The {path} placeholder is the action name. A named GET such as createOrder can still mutate; this template is not itself a write.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-mobile-add-to-cart-v10.js, pdp-mobile-product-main.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/{path}",
+    "params": [
+      "path"
+    ],
+    "purpose": "Generic POST under _action/v2 (pdpPostWithPayload, and checkout POST /v2/{link}). Which action runs is unconfirmed from the template alone, so this is marked a write.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-mobile-add-to-cart-v10.js, pdp-mobile-product-main.js, pdp-mobile-one-click-button-v3.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/voteComment",
+    "params": [],
+    "purpose": "Vote on a comment.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/voteReview",
+    "params": [],
+    "purpose": "Vote on a review.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "rp-product-web-list-reviews-v3.js (+ question-count, single-product-score, review-gallery)",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/_action/{param}",
+    "params": [
+      "param"
+    ],
+    "purpose": "Generic composer actionGet. {param} is the action name; an optional query object is the second fetch argument. Not itself a write.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "main.js ComposerService.actionGet",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/{param}",
+    "params": [
+      "param"
+    ],
+    "purpose": "Generic composer actionPost. {param} is the action name and the body is caller-supplied. Whether a given call mutates is unconfirmed, so the template is marked a write.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "main.js ComposerService.actionPost",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/composer-api.bx/page/json/v{n}?url={url}",
+    "params": [
+      "url"
+    ],
+    "purpose": "Composer page read for a version other than 2. Version 2 is rewritten to entrypoint-api.bx (main.js switches the service path when the version is 2).",
+    "response_shape": "{layout[], widgetStates{<family-id-container-n>: <json string>}, seo, pageInfo, location, browser, client, layoutTrackingInfo, shared, segments, pageToken, serverTiming, userToken, experimentsConfig, requestID, trackingTokenAliases, verticalInfo, resolveParams, isPrefetched} (same ComposerService.jsonGet contract; this host/version was not captured)",
+    "source": "bundle",
+    "evidence": "main.js ComposerService.jsonGet",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/page/json/v{n}?url={url}",
+    "params": [
+      "url"
+    ],
+    "purpose": "POST twin of the composer page read (ComposerService.jsonPost) for a version other than 2. Same url query and payload slot as jsonGet; not observed live.",
+    "response_shape": "same page envelope as jsonGet; not captured",
+    "source": "bundle",
+    "evidence": "main.js ComposerService.jsonPost",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/widget/json/v2",
+    "params": [
+      "widgetStateId",
+      "url"
+    ],
+    "purpose": "Refresh one widget (ComposerService.widget) by widgetStateId. gaps.md says a recon sample was orderInfo and that the POST is not proven to be only a read, so this is unconfirmed.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "main.js ComposerService.widget; audit/gaps.md",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/widget/json/v2/batch",
+    "params": [
+      "componentRequests"
+    ],
+    "purpose": "Refresh many widgets (ComposerService.widgetBatch). Same caveat as the single-widget POST: unconfirmed whether it only reads.",
+    "response_shape": "{componentStates} (client reads that field; body not captured)",
+    "source": "bundle",
+    "evidence": "main.js ComposerService.widgetBatch",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "GET",
+    "path": "/api/entrypoint-api.bx/page/json/v2",
+    "params": [
+      "url"
+    ],
+    "purpose": "Rendered page envelope for any site URL; the primary read path. One endpoint — url= selects the page. Observed live page types: home, category (search is predicted into a category), brand, brand index, highlight, seller, seller index, pdp and its layout slices (description/characteristics, reviews shelf, bottom shelves, analogs), features, reviews, legacy /reviews/<sku>, questions, question detail, videos, cart, favorites, selections, wishlists, favourite sellers, account, orders, chat, points, account FAQ, cookie settings, compare, buy-again, business, pickup map, search suggestions, and modals (similar products, all filters, address book, currency, lower price, seller rating). Client search, product, category, reviews, questions, cart, favorites, and search_suggest all use this GET.",
+    "response_shape": "{layout[], widgetStates{<family-id-container-n>: <json string>}, seo, pageInfo, location, browser, client, layoutTrackingInfo, shared, segments, pageToken, serverTiming, userToken, experimentsConfig, requestID, trackingTokenAliases, verticalInfo, resolveParams, isPrefetched}",
+    "source": "live+bundle",
+    "evidence": "main.js ComposerService.jsonGet; audit/raw/product.json; audit/fetch_log.json; 2026-10-16 GET only: OzonClient.page, brand, seller, highlight, brands, sellers, similar, media, features, review_stats, availability, search sorting=price&is_promo=t, category page=2, reviews page=2, questions cursor. 16 responses, all HTTP 200.",
+    "implemented": true,
+    "verified_live": true,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/entrypoint-api.bx/page/json/v2",
+    "params": [
+      "url"
+    ],
+    "purpose": "POST twin of the v2 page read (ComposerService.jsonPost routes version 2 to entrypoint-api.bx). Same url query as the GET. Not observed fired; the audit only issued GET.",
+    "response_shape": "same page envelope as the GET; not captured",
+    "source": "bundle",
+    "evidence": "main.js ComposerService.jsonPost",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/location/v2/areas/{param}",
+    "params": [
+      "param"
+    ],
+    "purpose": "Location area by id. Bundle calls /areas/${areaId}; placeholder kept as {param}.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-desktop-sale-v12.js LocationService",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/location/v2/current",
+    "params": [
+      "ip"
+    ],
+    "purpose": "Current location. Optional ip query. Live GET on https://ozon.by/api/location/v2/current returned 404 on 2026-10-16, so this row stays unimplemented.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-desktop-sale-v12.js LocationService; 2026-10-16 GET ozon.by/api/location/v2/current HTTP 404",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "GET",
+    "path": "/api/location/v2/search",
+    "params": [
+      "query"
+    ],
+    "purpose": "Search locations by query. Client code expects an array and slices to 10. Live GET on ozon.by returned 404 on 2026-10-16, so this row stays unimplemented.",
+    "response_shape": "array (client slices to 10); not captured",
+    "source": "bundle",
+    "evidence": "pdp-desktop-sale-v12.js LocationService; 2026-10-16 GET ozon.by/api/location/v2/search?query=Минск HTTP 404",
+    "implemented": false,
+    "verified_live": false,
+    "write": false
+  },
+  {
+    "method": "POST",
+    "path": "/api/location/v2/user/location",
+    "params": [
+      "AreaId",
+      "DefaultAreaId",
+      "UserAgent"
+    ],
+    "purpose": "Set the user's location area. Findings call this the write that sets the area.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "pdp-desktop-sale-v12.js LocationService",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/logs-gateway/input",
+    "params": [],
+    "purpose": "Client log ingest (ClientLogger). Host is the xapi gateway, not the ozon storefront origin.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "main.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/pop-stats-collector/api/v2/pop-stats/send",
+    "params": [],
+    "purpose": "CDN/RUM pop-stats ingest.",
+    "response_shape": "unknown",
+    "source": "bundle",
+    "evidence": "1.0.4.js",
+    "implemented": false,
+    "verified_live": false,
+    "write": true
+  },
+  {
+    "method": "POST",
+    "path": "/api/composer-api.bx/_action/v2/addressBookBarTooltip",
+    "params": [
+      "prv",
+      "set_sm"
+    ],
+    "purpose": "Address-bar tooltip. Client posts an empty JSON body; gaps.md records {data:{tooltipBody, trackingInfo}}. Not a string in the scanned JS bundles (the action link is inside live widget state). Classified as a read.",
+    "response_shape": "{data:{tooltipBody, trackingInfo}} (gaps.md; body not stored in audit/raw)",
+    "source": "live",
+    "evidence": "src/ozon_client/session.py address_bar(); audit/raw/category.json action link; audit/gaps.md; audit/page_inventory.md",
+    "implemented": true,
+    "verified_live": false,
+    "write": false
+  }
+]

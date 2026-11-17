@@ -1,0 +1,2959 @@
+{
+  "features": {
+    "pageType": "pdp_reviews",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features/",
+    "families": [
+      "addressBookBarWeb",
+      "breadCrumbs",
+      "catalogMenu",
+      "column",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tagListModal",
+      "tapTags",
+      "wallpaper",
+      "webAddToCart",
+      "webCharacteristics",
+      "webPdpGrid",
+      "webPrice",
+      "webProductMini",
+      "webProductTabs"
+    ],
+    "n": 45,
+    "interesting": {
+      "webCharacteristics-903456-default-1": {
+        "link": "https://ozon.by/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features/",
+        "characteristics": {
+          "_len": 1,
+          "_0": {
+            "short": {
+              "_len": 5,
+              "_0": {
+                "key": "RequiredApps",
+                "name": "Обязательные программы предустановлены",
+                "values": "list[1]",
+                "hintText": "На устройстве допускается отсутствие обязательных к предустановке программ, а в "
+              }
+            }
+          }
+        },
+        "productTitle": "Характеристики: Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, синий",
+        "lexemes": {
+          "allCharacteristicsText": "Все характеристики",
+          "ariaLabel": "Подсказка",
+          "collapseText": "Свернуть",
+          "moreText": "Подробнее",
+          "notificationError": "Ваш браузер не поддерживает данный функционал",
+          "shawAllCharacteristicsText": "Показать все характеристики",
+          "successfulCopyText": "Артикул скопирован"
+        },
+        "cellTrackingInfo": {
+          "uis": {
+            "main": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb",
+            "sku": "1oSo1RVMSM6DfVSj1K3xJEFVyKti3MBx",
+            "suggest": "1oSo1U_ZvlPs1gvIuGwnJ_kuzR9BozWV"
+          },
+          "tags": {
+            "Brand_0": "1oSo1TrDwm_qkzuU3hwYKcd3TpkXhqyr",
+            "ChargingFeatures_0": "1oSo1N_tMK1P-6_bKnm1fmZ71Egx7Vr4",
+            "Country_0": "1oSo1MlKpkkaZfSP-GQZ3sA3-ofRlpun",
+            "DegreeProtection_0": "1oSo1TUaa_5dmleBoKicEnA1GH6QV4uf",
+            "FormFactors_0": "1oSo1Z1TKOc0Ga02yijCZHWcie1l817E",
+            "InterfaceShort_0": "1oSo1YplKCePPmm5iRMJLALFISboghyA",
+            "MobilePhoneForm_0": "1oSo1Sy6tBYzuT2C6alIYvcUk0EVnBeL",
+            "NavigationOS_0": "1oSo1-Pc4H5TPURjHn73G7xy6wGgEU6g",
+            "OSWithoutVer_0": "1oSo1_vF_mwSL_ZuNwG6F3ypPMJcGALQ",
+            "QualityVideo_0": "1oSo1_h3CUgxiDANX7gzf52Jt_PEFkOn",
+            "Sensors_0": "1oSo1RRFPoixa9gw6enAwiMsIURpr0QL",
+            "SmartphoneRefreshRate_0": "1oSo1-RhbrwPg0oN6IQBH0_4IdrcoDdn",
+            "SmartphoneStab_0": "1oSo1QE6gRsZ18vlU6QppNdNpfxL6t_e",
+            "Support_eSim_0": "1oSo1UVmpZZZwfhQ85TwKOS1tPPfhJI9",
+            "VolumeMemoryPhone_0": "1oSo1-RGPOw9hGyqyM9xluMY1_2LfFXb",
+            "WirelessTechShort_0": "1oSo1TkFYrA5c6a29E9lz-n7neKLdTse",
+            "smartphoneram_0": "1oSo1YysK62UtO3tMuqGiAtXNiDHEeaR"
+          }
+        },
+        "trackingInfo": {
+          "view": {
+            "actionType": "view",
+            "key": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb"
+          }
+        },
+        "params": {
+          "anchor": "",
+          "canExpand": false,
+          "columns": 1,
+          "dataType": "characteristics",
+          "disablePaidBrand": false,
+          "disclaimer": "",
+          "hintMaxLength": 1500,
+          "isShowTitleAsH1": false,
+          "isWidgetCharacteristicsOnPage": false,
+          "isWidgetDescriptionOnPage": false,
+          "limit": 5,
+          "linkToCharacteristics": "#section-characteristics",
+          "linkToCharacteristicsButtonText": "Перейти к характеристикам",
+          "linkToDescription": "#section-description",
+          "linkToDescriptionButtonText": "Перейти к описанию",
+          "linkToExternal": "",
+          "linkToExternalText": "Подробнее",
+          "markedDownLink": "https://docs.ozon.ru/common-mobile/discounted-products/",
+          "paramsLinkTarget": "self",
+          "showLongCharacteristics": true,
+          "theme": "default",
+          "thresholdLength": 60,
+          "title": "",
+          "topList": true,
+          "viewLine": "dotted",
+          "visibleCount": 5
+        }
+      },
+      "footer-359272-default-1": {
+        "newFooter": {
+          "share": {
+            "image": "https://ir-3.ozone.ru/s3/cms/89/tad/qr-code_1_1.png",
+            "description": {
+              "text": "Наведите камеру и скачайте бесплатное приложение Ozon",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "columns": {
+            "_len": 3,
+            "_0": {
+              "links": {
+                "_len": 3,
+                "_0": {
+                  "_keys": [
+                    "link",
+                    "title",
+                    "trackingInfo"
+                  ]
+                }
+              }
+            }
+          },
+          "copyright": {
+            "link": "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+            "title": {
+              "text": "© 2021 - 2026 ООО «ОЗОН Маркет Бел». Все права защищены.",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            },
+            "description": {
+              "text": "Применяются <a href=\"https://docs.ozon.by/legal/terms-of-use/site/algorithms/\"> рекомендательные технологии</a>",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "socialButtons": {
+            "_len": 3,
+            "_0": {
+              "size": "SIZE_500",
+              "styleType": "CUSTOM",
+              "buttonShape": "SHAPE_SQUARE",
+              "icon": "ic_m_vk_filled",
+              "common": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "link",
+                    "params"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "click"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "backgroundColor": "bgOverlap"
+            }
+          },
+          "accessibilityButton": {
+            "size": "SIZE_500",
+            "title": "Для слабовидящих",
+            "icon": "ic_m_visually_impaired_filled",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_CUSTOM",
+                "id": "accessibilityMode"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          },
+          "hoverColor": "textAction",
+          "legalTerms": {
+            "textColor": "textTertiary",
+            "textAlignment": "CENTER",
+            "typographyToken": "tsBody400Small"
+          },
+          "backgroundColor": "layerFloor0"
+        }
+      },
+      "webProductTabs-10127582-default-1": {
+        "activeValueTab": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features",
+        "tabs": {
+          "_len": 4,
+          "_0": {
+            "title": "Характеристики",
+            "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features"
+          }
+        },
+        "lmtParams": {
+          "counterTheme": "primary"
+        }
+      },
+      "webCharacteristics-939986-default-1": {
+        "totalCount": 29,
+        "link": "https://ozon.by/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features/",
+        "characteristics": {
+          "_len": 1,
+          "_0": {
+            "short": {
+              "_len": 29,
+              "_0": {
+                "key": "Sku",
+                "name": "Артикул",
+                "values": "list[1]",
+                "copyText": "3094054833"
+              }
+            }
+          }
+        },
+        "productTitle": "Характеристики: Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, синий",
+        "lexemes": {
+          "allCharacteristicsText": "Все характеристики",
+          "ariaLabel": "Подсказка",
+          "collapseText": "Свернуть",
+          "moreText": "Подробнее",
+          "notificationError": "Ваш браузер не поддерживает данный функционал",
+          "shawAllCharacteristicsText": "Показать все характеристики",
+          "successfulCopyText": "Артикул скопирован"
+        },
+        "cellTrackingInfo": {
+          "uis": {
+            "main": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb",
+            "sku": "1oSo1QYt2XiWpRaE2SrHkV1n3tajdpdR",
+            "suggest": "1oSo1U_ZvlPs1gvIuGwnJ_kuzR9BozWV"
+          },
+          "tags": {
+            "Brand_0": "1oSo1TrDwm_qkzuU3hwYKcd3TpkXhqyr",
+            "ChargingFeatures_0": "1oSo1N_tMK1P-6_bKnm1fmZ71Egx7Vr4",
+            "Country_0": "1oSo1MlKpkkaZfSP-GQZ3sA3-ofRlpun",
+            "DegreeProtection_0": "1oSo1TUaa_5dmleBoKicEnA1GH6QV4uf",
+            "FormFactors_0": "1oSo1Z1TKOc0Ga02yijCZHWcie1l817E",
+            "InterfaceShort_0": "1oSo1YplKCePPmm5iRMJLALFISboghyA",
+            "MobilePhoneForm_0": "1oSo1Sy6tBYzuT2C6alIYvcUk0EVnBeL",
+            "NavigationOS_0": "1oSo1-Pc4H5TPURjHn73G7xy6wGgEU6g",
+            "OSWithoutVer_0": "1oSo1_vF_mwSL_ZuNwG6F3ypPMJcGALQ",
+            "QualityVideo_0": "1oSo1_h3CUgxiDANX7gzf52Jt_PEFkOn",
+            "Sensors_0": "1oSo1RRFPoixa9gw6enAwiMsIURpr0QL",
+            "SmartphoneRefreshRate_0": "1oSo1-RhbrwPg0oN6IQBH0_4IdrcoDdn",
+            "SmartphoneStab_0": "1oSo1QE6gRsZ18vlU6QppNdNpfxL6t_e",
+            "Support_eSim_0": "1oSo1UVmpZZZwfhQ85TwKOS1tPPfhJI9",
+            "VolumeMemoryPhone_0": "1oSo1-RGPOw9hGyqyM9xluMY1_2LfFXb",
+            "WirelessTechShort_0": "1oSo1TkFYrA5c6a29E9lz-n7neKLdTse",
+            "smartphoneram_0": "1oSo1YysK62UtO3tMuqGiAtXNiDHEeaR"
+          }
+        },
+        "trackingInfo": {
+          "view": {
+            "actionType": "view",
+            "key": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb"
+          }
+        },
+        "params": {
+          "anchor": "",
+          "canExpand": false,
+          "columns": 2,
+          "dataType": "characteristics",
+          "disablePaidBrand": false,
+          "disclaimer": "",
+          "hintMaxLength": 100,
+          "isShowTitleAsH1": true,
+          "isWidgetCharacteristicsOnPage": false,
+          "isWidgetDescriptionOnPage": false,
+          "limit": 300,
+          "linkToCharacteristics": "#section-characteristics",
+          "linkToCharacteristicsButtonText": "Перейти к характеристикам",
+          "linkToDescription": "#section-description",
+          "linkToDescriptionButtonText": "Перейти к описанию",
+          "linkToExternal": "",
+          "linkToExternalText": "Подробнее",
+          "markedDownLink": "https://docs.ozon.ru/common-mobile/discounted-products/",
+          "paramsLinkTarget": "self",
+          "showLongCharacteristics": true,
+          "theme": "default",
+          "thresholdLength": 60,
+          "title": "%productTitle%",
+          "topList": false,
+          "viewLine": "dotted",
+          "visibleCount": 10
+        }
+      },
+      "tagListModal-6929665-default-1": {
+        "tags": {
+          "_len": 35,
+          "_0": {
+            "text": "iPhone 18",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_REDIRECT",
+                "link": "/category/smartfon-apple-iphone18/"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "close": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "show": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "view": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "tagsCount": 10,
+        "trackingInfo": {
+          "click": {
+            "actionType": "click",
+            "key": "seo-widget-api35"
+          },
+          "open": {
+            "actionType": "open",
+            "key": "seo-widget-api35"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "seo-widget-api35"
+          }
+        },
+        "marginBottom": 20
+      }
+    }
+  },
+  "pdp_reviews_layout": {
+    "pageType": "pdp",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/?__rr=1&layout_container=pdpReviews&layout_page_index=2&sh=8XNzq49s8A&start_page_id=4e184add5a88f8e5c2c2a1572c814830",
+    "families": [
+      "column",
+      "paginator",
+      "row",
+      "separator",
+      "textBlock",
+      "webAsyncContainer",
+      "webCreateQuestion",
+      "webPDPListQuestions",
+      "webReviewTabs"
+    ],
+    "n": 15,
+    "interesting": {
+      "webPDPListQuestions-13288832-pdpReviews-2": {},
+      "paginator-793188-pdpReviews-2": {
+        "nextPage": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/?__rr=1&layout_container=pdpReviews2&layout_p",
+        "size": 10,
+        "offsetTop": 1500,
+        "fetchType": "scroll",
+        "minHeight": 500,
+        "layoutContainer": "pdpReviews2"
+      },
+      "paginator-13288833-pdpReviews-2": {
+        "prevPage": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/?__rr=1&paginator_token=13288831&sh=8XNzq49s8",
+        "nextPage": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/?__rr=1&layout_page_index=3&paginator_token=1",
+        "size": 10,
+        "fetchType": "scroll",
+        "layoutContainer": "pdpReviews"
+      },
+      "webCreateQuestion-13408715-pdpReviews-2": {
+        "action": {
+          "behavior": "BEHAVIOR_TYPE_COMPOSER_ACTION",
+          "link": "createQuestionV2",
+          "id": "createQuestion",
+          "params": {
+            "itemID": "3094054833"
+          }
+        },
+        "rules": {
+          "_len": 2,
+          "_0": {
+            "type": "textGray",
+            "content": "Заданные вопросы, ответы на них и статус публикации вы можете отслеживать в разделе \"Мои вопросы и ответы\" личного кабин"
+          }
+        },
+        "title": {
+          "text": "Задайте вопрос о товаре",
+          "textColor": "graphicPrimary",
+          "typographyToken": "tsHeadline500XMedium"
+        },
+        "subTitle": {
+          "text": "Вам ответит продавец, представитель бренда или пользователь, купивший этот товар. Пришлем уведомление, когда поступит от",
+          "textColor": "graphicPrimary",
+          "typographyToken": "tsCompact400Large"
+        },
+        "textarea": {
+          "maxLength": 3000,
+          "label": "Напишите свой вопрос",
+          "resize": true,
+          "rows": 1,
+          "testInfo": {
+            "automatizationId": "create-question-textarea"
+          }
+        },
+        "constants": {
+          "anonymousToggleLabel": "Оставить вопрос анонимно",
+          "anonymousUserLabel": "Анонимный покупатель",
+          "askButtonText": "Задать вопрос",
+          "closeButtonText": "Отмена",
+          "createAsLabel": "Вы оставляете вопрос как:",
+          "fieldLengthError": "Сообщение должно быть от 10 до 3000 символов",
+          "fieldMinLength": "10",
+          "rulesLink": "https://docs.ozon.ru/common/pravila-prodayoi-i-rekvizity/pravila-publikatsii-otzyvov/pravila-publikatsii-voprosov-otveto",
+          "rulesLinkText": "правилами публикации",
+          "rulesText": "Заданные вопросы, ответы на них и статус публикации вы можете отслеживать в разделе \"Мои вопросы и ответы\" личного кабин",
+          "sendButtonText": "Отправить",
+          "serverErrorText": "Не удалось отправить вопрос. Попробуйте еще раз.",
+          "successText": "Спасибо! Ваш вопрос будет опубликован после проверки модератором."
+        },
+        "trackingInfo": {
+          "add": {
+            "actionType": "add",
+            "key": "ugc-questions-widgets0"
+          },
+          "click": {
+            "actionType": "click",
+            "key": "ugc-questions-widgets0"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "ugc-questions-widgets0"
+          }
+        }
+      }
+    }
+  },
+  "pdp_bottom": {
+    "pageType": "pdp",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/?__rr=1&layout_container=BottomShelfs&layout_page_index=3&sh=8XNzq9adTA&start_page_id=4e184add5a88f8e5c2c2a1572c814830",
+    "families": [
+      "column",
+      "row",
+      "tileGridDesktop"
+    ],
+    "n": 3,
+    "interesting": {}
+  },
+  "pdp_analogs": {
+    "pageType": "pdp",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/?__rr=1&layout_container=pdp-web-second-analogs-shelf&layout_page_index=3&sh=8XNzq9adTA&start_page_id=4e184add5a88f8e5c2c2a1572c814830",
+    "families": [
+      "separator-14315619-pdp-web-second-analogs-shelf-3",
+      "tileScrollDesktop-14315620-pdp-web-second-analogs-shelf-3"
+    ],
+    "n": 2,
+    "interesting": {}
+  },
+  "reviews_page2": {
+    "pageType": "pdp_reviews",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews/?page=2",
+    "families": [
+      "addressBookBarWeb",
+      "breadCrumbs",
+      "catalogMenu",
+      "column",
+      "container",
+      "createReviewButton",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "reviewsTitle",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tagListModal",
+      "tapTags",
+      "wallpaper",
+      "webAddToCart",
+      "webCharacteristics",
+      "webListPhotos",
+      "webListReviews",
+      "webPdpGrid",
+      "webPrice",
+      "webProductMini",
+      "webProductTabs",
+      "webReviewGallery",
+      "webReviewProductScore"
+    ],
+    "n": 55,
+    "interesting": {
+      "reviewsTitle-2445818-default-1": {
+        "cellTrackingInfo": {
+          "click": {
+            "actionType": "click",
+            "key": "1"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "0"
+          }
+        },
+        "productName": "Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, синий",
+        "productUrl": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/",
+        "reviewUrl": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews/",
+        "productId": 3094054833,
+        "reviewsTotal": 47,
+        "constants": {
+          "title": "Отзывы о товаре"
+        },
+        "lmtParams": {
+          "mode": "withProduct",
+          "withLink": false
+        }
+      },
+      "webProductTabs-10056736-default-1": {
+        "activeValueTab": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews",
+        "tabs": {
+          "_len": 4,
+          "_0": {
+            "title": "Характеристики",
+            "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features"
+          }
+        },
+        "lmtParams": {
+          "counterTheme": "primary"
+        }
+      },
+      "tagListModal-6929665-default-1": {
+        "tags": {
+          "_len": 35,
+          "_0": {
+            "text": "iPhone 18",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_REDIRECT",
+                "link": "/category/smartfon-apple-iphone18/"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "close": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "show": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "view": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "tagsCount": 10,
+        "trackingInfo": {
+          "click": {
+            "actionType": "click",
+            "key": "seo-widget-api35"
+          },
+          "open": {
+            "actionType": "open",
+            "key": "seo-widget-api35"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "seo-widget-api35"
+          }
+        },
+        "marginBottom": 20
+      },
+      "footer-3036938-default-1": {
+        "newFooter": {
+          "share": {
+            "image": "https://ir-3.ozone.ru/s3/cms/89/tad/qr-code_1_1.png",
+            "description": {
+              "text": "Наведите камеру и скачайте бесплатное приложение Ozon",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "columns": {
+            "_len": 3,
+            "_0": {
+              "links": {
+                "_len": 3,
+                "_0": {
+                  "_keys": [
+                    "link",
+                    "title",
+                    "trackingInfo"
+                  ]
+                }
+              }
+            }
+          },
+          "copyright": {
+            "link": "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+            "title": {
+              "text": "© 2021 - 2026 ООО «ОЗОН Маркет Бел». Все права защищены.",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            },
+            "description": {
+              "text": "Применяются <a href=\"https://docs.ozon.by/legal/terms-of-use/site/algorithms/\"> рекомендательные технологии</a>",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "socialButtons": {
+            "_len": 3,
+            "_0": {
+              "size": "SIZE_500",
+              "styleType": "CUSTOM",
+              "buttonShape": "SHAPE_SQUARE",
+              "icon": "ic_m_vk_filled",
+              "common": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "link",
+                    "params"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "click"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "backgroundColor": "bgOverlap"
+            }
+          },
+          "accessibilityButton": {
+            "size": "SIZE_500",
+            "title": "Для слабовидящих",
+            "icon": "ic_m_visually_impaired_filled",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_CUSTOM",
+                "id": "accessibilityMode"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          },
+          "hoverColor": "textAction",
+          "legalTerms": {
+            "textColor": "textTertiary",
+            "textAlignment": "CENTER",
+            "typographyToken": "tsBody400Small"
+          },
+          "backgroundColor": "layerFloor0"
+        }
+      },
+      "webListReviews-5603940-default-1": {
+        "products": {
+          "3093996764": {
+            "itemId": "3093996764",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "silver"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/256 ГБ, eSIM, серебристый",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-j/8314736167.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-256-gb-esim-serebristyy-3093996764/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094007076": {
+            "itemId": "3094007076",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "deep blue"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/256 ГБ, eSIM, синий",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-x/8314736217.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-256-gb-esim-siniy-3094007076/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094019082": {
+            "itemId": "3094019082",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "orange"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/256 ГБ, eSIM, оранжевый",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-c/8314736304.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-256-gb-esim-oranzhevyy-3094019082/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094029671": {
+            "itemId": "3094029671",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "silver"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, серебристый",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-j/8314736167.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-serebristyy-3094029671/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094054833": {
+            "itemId": "3094054833",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "deep blue"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, синий",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-x/8314736217.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094062811": {
+            "itemId": "3094062811",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "orange"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, оранжевый",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-c/8314736304.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-oranzhevyy-3094062811/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094072123": {
+            "itemId": "3094072123",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "silver"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/1 ТБ, eSIM, серебристый",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-j/8314736167.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-1-tb-esim-serebristyy-3094072123/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094080188": {
+            "itemId": "3094080188",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "deep blue"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/1 ТБ, eSIM, синий",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-x/8314736217.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-1-tb-esim-siniy-3094080188/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          },
+          "3094092688": {
+            "itemId": "3094092688",
+            "variants": {
+              "_len": 3,
+              "_0": {
+                "name": "Название цвета",
+                "value": "orange"
+              }
+            },
+            "name": "Apple Смартфон iPhone 17 Pro eSIM 12/1 ТБ, eSIM, оранжевый",
+            "coverImage": "https://ir-3.ozone.ru/s3/multimedia-1-c/8314736304.jpg",
+            "uri": "/product/apple-smartfon-iphone-17-pro-esim-12-1-tb-esim-oranzhevyy-3094092688/",
+            "Score": 0,
+            "IsAvailableForSocial": true
+          }
+        },
+        "user": {
+          "clientOfficial": null,
+          "avatarUrl": null,
+          "guid": null,
+          "firstName": null,
+          "lastName": null,
+          "fio": null,
+          "officialUser": null,
+          "isLegal": null,
+          "topAuthorUser": null
+        },
+        "filters": {
+          "withPhotos": null,
+          "withMedia": null
+        },
+        "author": null,
+        "uri": "",
+        "requestedPath": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews/",
+        "reviews": {
+          "_len": 17,
+          "_0": {
+            "sharing": null,
+            "editUrl": "",
+            "updatedAt": null,
+            "publishedAt": 1785734125,
+            "author": {
+              "clientOfficial": {
+                "id": "0",
+                "caption": "",
+                "partnerType": 0,
+                "name": "",
+                "brandLogoUri": "",
+                "brandUri": ""
+              },
+              "avatarUrl": "",
+              "guid": "",
+              "firstName": "Имя скрыто",
+              "lastName": "",
+              "fio": "",
+              "officialUser": null,
+              "isLegal": null,
+              "topAuthorUser": null
+            },
+            "status": {
+              "name": "Опубликован",
+              "id": 5
+            },
+            "usefulness": null,
+            "itemId": "3094019082",
+            "createdAt": 1785734125,
+            "version": 0,
+            "statusId": 5,
+            "uuid": "019fc60c-560e-7a53-bc4f-e767fd553d1b",
+            "isDeletable": false,
+            "isEdited": false,
+            "isEditable": false,
+            "isVotable": false,
+            "isReportable": false,
+            "isDeleted": false,
+            "isRejected": false,
+            "isAbuseReported": false,
+            "isAnchor": false,
+            "abuseReportTrackingInfo": {
+              "click": {
+                "actionType": "abuse",
+                "key": "ugc-widgets-api3",
+                "nested": "list[0]",
+                "sliceKey": "",
+                "custom": {
+                  "_keys": []
+                },
+                "fastEvent": false
+              }
+            },
+            "content": {
+              "comment": null,
+              "positive": null,
+              "negative": null,
+              "videos": [],
+              "photos": [],
+              "contextQuestions": [],
+              "score": 5
+            },
+            "comments": {
+              "list": [],
+              "totalCount": 0
+            },
+            "isCommentable": false,
+            "isAnonymous": true,
+            "showVariantImage": false,
+            "isUserReview": false,
+            "isItemPurchased": false,
+            "translateButton": null,
+            "badgeDelivery": null,
+            "badge": null,
+            "OrderType": 1,
+            "HasContextQuestionsByProduct": true,
+            "Lang": "",
+            "reviewLabel": null
+          }
+        },
+        "sortings": {
+          "_len": 3,
+          "_0": {
+            "name": "новые и полезные",
+            "value": "usefulness_desc",
+            "active": true
+          }
+        },
+        "itemId": "3094054833",
+        "paging": {
+          "total": 47,
+          "commonTotal": 47,
+          "page": 2,
+          "perPage": 30,
+          "links": {
+            "_len": 2,
+            "_0": {
+              "text": "1",
+              "urlParams": "?sort=usefulness_desc"
+            }
+          },
+          "nextButton": "",
+          "prevButton": "?sort=usefulness_desc"
+        },
+        "pageType": 1,
+        "productScore": 4.7,
+        "hideFirstCommentView": true,
+        "isShowFullText": false,
+        "reviewAbuseReasons": {
+          "reasons": {
+            "_len": 3,
+            "_0": {
+              "value": "2",
+              "label": "Неприемлемое содержание",
+              "isCommentRequired": false,
+              "isMedia": false
+            }
+          }
+        },
+        "commentAbuseReasons": {
+          "reasons": {
+            "_len": 2,
+            "_0": {
+              "value": "2",
+              "label": "Неприемлемое содержание",
+              "isCommentRequired": false,
+              "isMedia": false
+            }
+          }
+        },
+        "fullRequestUrl": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews/?reviewsVariantMode=2&sort=usefulness",
+        "actions": {
+          "addComment": "createCommentV2",
+          "loadComment": "rpGetCommentsByReviewUuid",
+          "removeComment": "removeCommentV2",
+          "removeReview": "rpDeleteMyReviewV2",
+          "reportComment": "v2/rpReportAbuseV2",
+          "reportReview": "v2/rpReportAbuseV2",
+          "translateReview": "translateReviewWeb",
+          "voteComment": "rpSetOpinionUsefulnessV2",
+          "voteReview": "rpSetOpinionUsefulnessV2"
+        },
+        "shelfMode": false,
+        "constants": {
+          "loadMoreText": "Показать больше отзывов",
+          "review": {
+            "badgePurchased": "Товар куплен на OZON",
+            "productVariants": "Вариант товара: ",
+            "showAllReview": "Показать весь отзыв",
+            "confirmationDelete": "Вы уверены, что хотите удалить",
+            "answer": "Ответить",
+            "delete": "Удалить",
+            "report": "Пожаловаться",
+            "copyUrl": "Скопировать ссылку",
+            "copyErrorText": "Ваш браузер не поддерживает данный функционал",
+            "copySuccessText": "Ссылка успешно скопирована",
+            "editButton": "Редактировать отзыв",
+            "yes": "Да",
+            "no": "Нет",
+            "reviewsUsefulness": "Вам помог этот отзыв?",
+            "entityReview": "отзыв",
+            "entityComment": "комментарий",
+            "entityQuestion": "вопрос",
+            "entityAnswer": "ответ",
+            "errorByEntityReview": "Расскажите, почему этот отзыв должен быть удален",
+            "errorByEntityComment": "Расскажите, почему этот комментарий должен быть удален",
+            "errorByEntityQuestion": "Расскажите, почему этот вопрос должен быть удален",
+            "errorByEntityAnswer": "Расскажите, почему этот ответ должен быть удален",
+            "bestAnswer": "Лучший ответ",
+            "editedText": "изменен",
+            "commentsButtonText": "комментарий",
+            "commentsMoreButtonText": "комментария",
+            "commentsManyButtonText": "комментариев"
+          },
+          "abuseReport": {
+            "reportReason": "Укажите причину",
+            "reasonPlaceholder": "Опишите причину подробнее",
+            "reasonSend": "Отправить жалобу",
+            "misleading": "Введение в заблуждение",
+            "inappropriatePhotoOrVideo": "Неприемлемое фото или видео",
+            "inappropriateContent": "Неприемлемое содержание",
+            "abuseOther": "Укажите другую причину",
+            "complaintSent": "Жалоба успешно отправлена"
+          },
+          "commentsList": {
+            "buttonMore": "Показать больше ответов",
+            "replyUser": "в ответ",
+            "defaultAuthorName": "Пользователь OZON",
+            "partnerDescription": "Этот пользователь может предоставлять разъяснения, официальную информацию и консультировать по вопросам, касающимся това"
+          },
+          "createComment": {
+            "successMessage": "Спасибо! Комментарий отправлен на проверку и скоро будет опубликован",
+            "errorMessage": "Произошла ошибка при создании комментария, попробуйте снова.",
+            "startText": "Ответ на",
+            "commentTextArea": "Текст комментария",
+            "rulesText": "Перед отправкой комментария, пожалуйста, ознакомьтесь с",
+            "rulesLinkText": "правилами публикации"
+          },
+          "sortFilter": {
+            "sortTitle": "Показать сначала: ",
+            "modalTitle": "Какие отзывы показать сначала?",
+            "modalButton": "Смотреть отзывы"
+          },
+          "contentText": {
+            "readMore": "Читать полностью",
+            "advantages": "Достоинства",
+            "received": "Недостатки",
+            "comment": "Комментарий"
+          },
+          "pagination": {
+            "goTo": "Перейти на страницу"
+          }
+        },
+        "lmtParams": {
+          "paginationType": "custom",
+          "shelfEnabled": false
+        },
+        "cellTrackingInfo": {
+          "abuse_019ca58d-7749-7b68-8121-379f057400f3": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api17",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019caf86-7de4-7a7f-9c52-00b4ce1c1c4f": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api16",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019cce33-a7da-78f8-9886-b1f6a143afa5": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api15",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019cd722-0aa6-79cd-b88d-c4626ea8dbb1": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api14",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019cdc3f-0171-7816-818a-9011a7e7d8ea": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api13",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019cf30d-721e-7cc1-a79d-086677310415": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api12",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019cff69-ba7b-746d-98f0-d11c3e291343": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api11",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019e2179-b203-7bde-b129-246c5a08225a": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api19",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019e2cb9-d134-7265-8d1d-d2d30f8d7922": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api10",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019e5ada-0d2a-7d2d-aa32-a422b7c2b3a4": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api9",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019e9537-023e-7276-bcd7-cb3fd1f4108c": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api8",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019f3bee-5792-734a-baf5-cc5162a31e48": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api7",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019f5fbf-6fbf-77de-9635-56bc059f00d6": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api6",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019f6abe-d6bd-7c10-a9cb-b8ab5e41117d": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api5",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019fa2a7-5406-7e52-b788-5569099aecac": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api4",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019fad62-82be-7959-9b36-08d54165811f": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api18",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "abuse_019fc60c-560e-7a53-bc4f-e767fd553d1b": {
+            "actionType": "abuse",
+            "key": "ugc-widgets-api3",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "add-review-sorting-score_asc": {
+            "actionType": "click",
+            "key": "ugc-widgets-api25",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "add-review-sorting-score_desc": {
+            "actionType": "click",
+            "key": "ugc-widgets-api24",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "add-review-sorting-usefulness_desc": {
+            "actionType": "click",
+            "key": "ugc-widgets-api23",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019ca58d-7749-7b68-8121-379f057400f3": {
+            "actionType": "click",
+            "key": "ugc-widgets-api128",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019caf86-7de4-7a7f-9c52-00b4ce1c1c4f": {
+            "actionType": "click",
+            "key": "ugc-widgets-api121",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019cce33-a7da-78f8-9886-b1f6a143afa5": {
+            "actionType": "click",
+            "key": "ugc-widgets-api114",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019cd722-0aa6-79cd-b88d-c4626ea8dbb1": {
+            "actionType": "click",
+            "key": "ugc-widgets-api107",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019cdc3f-0171-7816-818a-9011a7e7d8ea": {
+            "actionType": "click",
+            "key": "ugc-widgets-api100",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019cf30d-721e-7cc1-a79d-086677310415": {
+            "actionType": "click",
+            "key": "ugc-widgets-api93",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019cff69-ba7b-746d-98f0-d11c3e291343": {
+            "actionType": "click",
+            "key": "ugc-widgets-api86",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019e2179-b203-7bde-b129-246c5a08225a": {
+            "actionType": "click",
+            "key": "ugc-widgets-api142",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019e2cb9-d134-7265-8d1d-d2d30f8d7922": {
+            "actionType": "click",
+            "key": "ugc-widgets-api79",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019e5ada-0d2a-7d2d-aa32-a422b7c2b3a4": {
+            "actionType": "click",
+            "key": "ugc-widgets-api72",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019e9537-023e-7276-bcd7-cb3fd1f4108c": {
+            "actionType": "click",
+            "key": "ugc-widgets-api65",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019f3bee-5792-734a-baf5-cc5162a31e48": {
+            "actionType": "click",
+            "key": "ugc-widgets-api58",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019f5fbf-6fbf-77de-9635-56bc059f00d6": {
+            "actionType": "click",
+            "key": "ugc-widgets-api51",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019f6abe-d6bd-7c10-a9cb-b8ab5e41117d": {
+            "actionType": "click",
+            "key": "ugc-widgets-api44",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019fa2a7-5406-7e52-b788-5569099aecac": {
+            "actionType": "click",
+            "key": "ugc-widgets-api37",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019fad62-82be-7959-9b36-08d54165811f": {
+            "actionType": "click",
+            "key": "ugc-widgets-api135",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-edit-url-019fc60c-560e-7a53-bc4f-e767fd553d1b": {
+            "actionType": "click",
+            "key": "ugc-widgets-api30",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-review-019ca58d-7749-7b68-8121-379f057400f3": {
+            "actionType": "click",
+            "key": "ugc-widgets-api127",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-review-019caf86-7de4-7a7f-9c52-00b4ce1c1c4f": {
+            "actionType": "click",
+            "key": "ugc-widgets-api120",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          },
+          "click-review-019cce33-a7da-78f8-9886-b1f6a143afa5": {
+            "actionType": "click",
+            "key": "ugc-widgets-api113",
+            "nested": [],
+            "sliceKey": "",
+            "custom": {},
+            "fastEvent": false
+          }
+        }
+      },
+      "webReviewGallery-3554366-default-1": {},
+      "createReviewButton-3216620-default-1": {
+        "subtitle": {
+          "text": "Отзывы могут оставлять только те, кто купил товар. Так мы формируем честный рейтинг",
+          "textStyle": "tsBody500Medium",
+          "textColor": "textSecondary"
+        },
+        "trackingInfo": {
+          "click": {
+            "actionType": "click",
+            "key": "ugc-widgets-api1"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "ugc-widgets-api2"
+          }
+        }
+      },
+      "webCharacteristics-903456-default-1": {
+        "link": "https://ozon.by/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features/",
+        "characteristics": {
+          "_len": 1,
+          "_0": {
+            "short": {
+              "_len": 5,
+              "_0": {
+                "key": "RequiredApps",
+                "name": "Обязательные программы предустановлены",
+                "values": "list[1]",
+                "hintText": "На устройстве допускается отсутствие обязательных к предустановке программ, а в "
+              }
+            }
+          }
+        },
+        "productTitle": "Характеристики: Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, синий",
+        "lexemes": {
+          "allCharacteristicsText": "Все характеристики",
+          "ariaLabel": "Подсказка",
+          "collapseText": "Свернуть",
+          "moreText": "Подробнее",
+          "notificationError": "Ваш браузер не поддерживает данный функционал",
+          "shawAllCharacteristicsText": "Показать все характеристики",
+          "successfulCopyText": "Артикул скопирован"
+        },
+        "cellTrackingInfo": {
+          "uis": {
+            "main": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb",
+            "sku": "1oSo1RVMSM6DfVSj1K3xJEFVyKti3MBx",
+            "suggest": "1oSo1U_ZvlPs1gvIuGwnJ_kuzR9BozWV"
+          },
+          "tags": {
+            "Brand_0": "1oSo1TrDwm_qkzuU3hwYKcd3TpkXhqyr",
+            "ChargingFeatures_0": "1oSo1N_tMK1P-6_bKnm1fmZ71Egx7Vr4",
+            "Country_0": "1oSo1MlKpkkaZfSP-GQZ3sA3-ofRlpun",
+            "DegreeProtection_0": "1oSo1TUaa_5dmleBoKicEnA1GH6QV4uf",
+            "FormFactors_0": "1oSo1Z1TKOc0Ga02yijCZHWcie1l817E",
+            "InterfaceShort_0": "1oSo1YplKCePPmm5iRMJLALFISboghyA",
+            "MobilePhoneForm_0": "1oSo1Sy6tBYzuT2C6alIYvcUk0EVnBeL",
+            "NavigationOS_0": "1oSo1-Pc4H5TPURjHn73G7xy6wGgEU6g",
+            "OSWithoutVer_0": "1oSo1_vF_mwSL_ZuNwG6F3ypPMJcGALQ",
+            "QualityVideo_0": "1oSo1_h3CUgxiDANX7gzf52Jt_PEFkOn",
+            "Sensors_0": "1oSo1RRFPoixa9gw6enAwiMsIURpr0QL",
+            "SmartphoneRefreshRate_0": "1oSo1-RhbrwPg0oN6IQBH0_4IdrcoDdn",
+            "SmartphoneStab_0": "1oSo1QE6gRsZ18vlU6QppNdNpfxL6t_e",
+            "Support_eSim_0": "1oSo1UVmpZZZwfhQ85TwKOS1tPPfhJI9",
+            "VolumeMemoryPhone_0": "1oSo1-RGPOw9hGyqyM9xluMY1_2LfFXb",
+            "WirelessTechShort_0": "1oSo1TkFYrA5c6a29E9lz-n7neKLdTse",
+            "smartphoneram_0": "1oSo1YysK62UtO3tMuqGiAtXNiDHEeaR"
+          }
+        },
+        "trackingInfo": {
+          "view": {
+            "actionType": "view",
+            "key": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb"
+          }
+        },
+        "params": {
+          "anchor": "",
+          "canExpand": false,
+          "columns": 1,
+          "dataType": "characteristics",
+          "disablePaidBrand": false,
+          "disclaimer": "",
+          "hintMaxLength": 1500,
+          "isShowTitleAsH1": false,
+          "isWidgetCharacteristicsOnPage": false,
+          "isWidgetDescriptionOnPage": false,
+          "limit": 5,
+          "linkToCharacteristics": "#section-characteristics",
+          "linkToCharacteristicsButtonText": "Перейти к характеристикам",
+          "linkToDescription": "#section-description",
+          "linkToDescriptionButtonText": "Перейти к описанию",
+          "linkToExternal": "",
+          "linkToExternalText": "Подробнее",
+          "markedDownLink": "https://docs.ozon.ru/common-mobile/discounted-products/",
+          "paramsLinkTarget": "self",
+          "showLongCharacteristics": true,
+          "theme": "default",
+          "thresholdLength": 60,
+          "title": "",
+          "topList": true,
+          "viewLine": "dotted",
+          "visibleCount": 5
+        }
+      }
+    }
+  },
+  "questions_sort_new": {
+    "pageType": "product_question",
+    "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions/?qsort=created_at_desc",
+    "families": [
+      "addressBookBarWeb",
+      "breadCrumbs",
+      "catalogMenu",
+      "column",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "paginator",
+      "profileMenuAnonymous",
+      "row",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tagListModal",
+      "tapTags",
+      "wallpaper",
+      "webAddToCart",
+      "webCharacteristics",
+      "webCreateQuestion",
+      "webPDPListQuestions",
+      "webPdpGrid",
+      "webPrice",
+      "webProductMini",
+      "webProductTabs"
+    ],
+    "n": 51,
+    "interesting": {
+      "webCreateQuestion-13408715-default-1": {
+        "action": {
+          "behavior": "BEHAVIOR_TYPE_COMPOSER_ACTION",
+          "link": "createQuestionV2",
+          "id": "createQuestion",
+          "params": {
+            "itemID": "3094054833"
+          }
+        },
+        "rules": {
+          "_len": 2,
+          "_0": {
+            "type": "textGray",
+            "content": "Заданные вопросы, ответы на них и статус публикации вы можете отслеживать в разделе \"Мои вопросы и ответы\" личного кабин"
+          }
+        },
+        "title": {
+          "text": "Задайте вопрос о товаре",
+          "textColor": "graphicPrimary",
+          "typographyToken": "tsHeadline500XMedium"
+        },
+        "subTitle": {
+          "text": "Вам ответит продавец, представитель бренда или пользователь, купивший этот товар. Пришлем уведомление, когда поступит от",
+          "textColor": "graphicPrimary",
+          "typographyToken": "tsCompact400Large"
+        },
+        "textarea": {
+          "maxLength": 3000,
+          "label": "Напишите свой вопрос",
+          "resize": true,
+          "rows": 1,
+          "testInfo": {
+            "automatizationId": "create-question-textarea"
+          }
+        },
+        "constants": {
+          "anonymousToggleLabel": "Оставить вопрос анонимно",
+          "anonymousUserLabel": "Анонимный покупатель",
+          "askButtonText": "Задать вопрос",
+          "closeButtonText": "Отмена",
+          "createAsLabel": "Вы оставляете вопрос как:",
+          "fieldLengthError": "Сообщение должно быть от 10 до 3000 символов",
+          "fieldMinLength": "10",
+          "rulesLink": "https://docs.ozon.ru/common/pravila-prodayoi-i-rekvizity/pravila-publikatsii-otzyvov/pravila-publikatsii-voprosov-otveto",
+          "rulesLinkText": "правилами публикации",
+          "rulesText": "Заданные вопросы, ответы на них и статус публикации вы можете отслеживать в разделе \"Мои вопросы и ответы\" личного кабин",
+          "sendButtonText": "Отправить",
+          "serverErrorText": "Не удалось отправить вопрос. Попробуйте еще раз.",
+          "successText": "Спасибо! Ваш вопрос будет опубликован после проверки модератором."
+        },
+        "trackingInfo": {
+          "add": {
+            "actionType": "add",
+            "key": "ugc-questions-widgets0"
+          },
+          "click": {
+            "actionType": "click",
+            "key": "ugc-questions-widgets0"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "ugc-questions-widgets0"
+          }
+        }
+      },
+      "footer-397754-default-1": {
+        "newFooter": {
+          "share": {
+            "image": "https://ir-3.ozone.ru/s3/cms/89/tad/qr-code_1_1.png",
+            "description": {
+              "text": "Наведите камеру и скачайте бесплатное приложение Ozon",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "columns": {
+            "_len": 3,
+            "_0": {
+              "links": {
+                "_len": 3,
+                "_0": {
+                  "_keys": [
+                    "link",
+                    "title",
+                    "trackingInfo"
+                  ]
+                }
+              }
+            }
+          },
+          "copyright": {
+            "link": "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+            "title": {
+              "text": "© 2021 - 2026 ООО «ОЗОН Маркет Бел». Все права защищены.",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            },
+            "description": {
+              "text": "Применяются <a href=\"https://docs.ozon.by/legal/terms-of-use/site/algorithms/\"> рекомендательные технологии</a>",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "socialButtons": {
+            "_len": 3,
+            "_0": {
+              "size": "SIZE_500",
+              "styleType": "CUSTOM",
+              "buttonShape": "SHAPE_SQUARE",
+              "icon": "ic_m_vk_filled",
+              "common": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "link",
+                    "params"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "click"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "backgroundColor": "bgOverlap"
+            }
+          },
+          "accessibilityButton": {
+            "size": "SIZE_500",
+            "title": "Для слабовидящих",
+            "icon": "ic_m_visually_impaired_filled",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_CUSTOM",
+                "id": "accessibilityMode"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          },
+          "hoverColor": "textAction",
+          "legalTerms": {
+            "textColor": "textTertiary",
+            "textAlignment": "CENTER",
+            "typographyToken": "tsBody400Small"
+          },
+          "backgroundColor": "layerFloor0"
+        }
+      },
+      "webProductTabs-10127644-default-1": {
+        "activeValueTab": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions",
+        "tabs": {
+          "_len": 4,
+          "_0": {
+            "title": "Характеристики",
+            "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features"
+          }
+        },
+        "lmtParams": {
+          "counterTheme": "primary"
+        }
+      },
+      "webPDPListQuestions-13806005-default-1": {
+        "sorting": {
+          "value": "created_at_desc",
+          "options": {
+            "_len": 4,
+            "_0": {
+              "title": {
+                "text": "Сначала новые"
+              },
+              "value": "created_at_desc",
+              "url": "%2Fproduct%2Fapple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833%2Fquestions%2F?qsort=created_at_desc"
+            }
+          },
+          "size": "500",
+          "sizeDropdown": "500",
+          "selectOnly": true,
+          "testInfo": {
+            "automatizationId": "listQuestionsFilter"
+          }
+        },
+        "products": {
+          "3093996764": {
+            "coverImage": {
+              "image": "https://ir-3.ozone.ru/s3/multimedia-1-j/8314736167.jpg"
+            },
+            "name": {
+              "text": "Apple Смартфон iPhone 17 Pro eSIM 12/256 ГБ, eSIM, серебристый",
+              "textColor": "textPrimary",
+              "typographyToken": "tsCompact400Large"
+            },
+            "url": "/product/apple-smartfon-iphone-17-pro-esim-12-256-gb-esim-serebristyy-3093996764/"
+          },
+          "3094007076": {
+            "coverImage": {
+              "image": "https://ir-3.ozone.ru/s3/multimedia-1-x/8314736217.jpg"
+            },
+            "name": {
+              "text": "Apple Смартфон iPhone 17 Pro eSIM 12/256 ГБ, eSIM, синий",
+              "textColor": "textPrimary",
+              "typographyToken": "tsCompact400Large"
+            },
+            "url": "/product/apple-smartfon-iphone-17-pro-esim-12-256-gb-esim-siniy-3094007076/"
+          },
+          "3094019082": {
+            "coverImage": {
+              "image": "https://ir-3.ozone.ru/s3/multimedia-1-c/8314736304.jpg"
+            },
+            "name": {
+              "text": "Apple Смартфон iPhone 17 Pro eSIM 12/256 ГБ, eSIM, оранжевый",
+              "textColor": "textPrimary",
+              "typographyToken": "tsCompact400Large"
+            },
+            "url": "/product/apple-smartfon-iphone-17-pro-esim-12-256-gb-esim-oranzhevyy-3094019082/"
+          },
+          "3094029671": {
+            "coverImage": {
+              "image": "https://ir-3.ozone.ru/s3/multimedia-1-j/8314736167.jpg"
+            },
+            "name": {
+              "text": "Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, серебристый",
+              "textColor": "textPrimary",
+              "typographyToken": "tsCompact400Large"
+            },
+            "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-serebristyy-3094029671/"
+          },
+          "3094062811": {
+            "coverImage": {
+              "image": "https://ir-3.ozone.ru/s3/multimedia-1-c/8314736304.jpg"
+            },
+            "name": {
+              "text": "Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, оранжевый",
+              "textColor": "textPrimary",
+              "typographyToken": "tsCompact400Large"
+            },
+            "url": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-oranzhevyy-3094062811/"
+          }
+        },
+        "questions": {
+          "_len": 10,
+          "_0": {
+            "questionUuid": "01a11261-dd34-7055-9460-2baaae24dc43",
+            "author": {
+              "name": {
+                "text": "Nurzhan I.",
+                "textColor": "textSecondary",
+                "typographyToken": "tsCompact400Large"
+              }
+            },
+            "createdAt": {
+              "text": "6 октября 2026",
+              "textColor": "textSecondary",
+              "typographyToken": "tsCompact400Large"
+            },
+            "text": {
+              "text": "<a href=\"https://ozon.by/product/apple-smartfon-iphone-17-pro-esim-12-256-gb-esim-oranzhevyy-3094019082/question/01a1126",
+              "textColor": "textPrimary",
+              "typographyToken": "tsBody600Medium"
+            },
+            "itemId": "3094019082",
+            "answers": {
+              "_len": 1,
+              "_0": {
+                "answerUuid": "01a1200e-ab6f-7984-a255-709430874d2f",
+                "author": {
+                  "_keys": [
+                    "name",
+                    "avatarUrl"
+                  ]
+                },
+                "createdAt": {
+                  "_keys": [
+                    "text",
+                    "textColor",
+                    "typographyToken"
+                  ]
+                },
+                "text": {
+                  "_keys": [
+                    "text",
+                    "typographyToken"
+                  ]
+                },
+                "reactions": "list[2]",
+                "actions": "list[1]",
+                "popoverMenu": {
+                  "_keys": [
+                    "size",
+                    "styleType",
+                    "icon",
+                    "common",
+                    "iconColor",
+                    "isHoverDisabled"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "view"
+                  ]
+                }
+              }
+            },
+            "reactions": {
+              "_len": 1,
+              "_0": {
+                "styleType": "CUSTOM",
+                "size": "SIZE_400",
+                "title": "0",
+                "icon": "ic_s_like",
+                "common": {
+                  "_keys": [
+                    "action",
+                    "testInfo"
+                  ]
+                },
+                "titleColor": "textPrimary",
+                "iconColor": "textSecondary",
+                "backgroundColor": "bgSecondary"
+              }
+            },
+            "actions": {
+              "_len": 1,
+              "_0": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "id",
+                    "params"
+                  ]
+                },
+                "text": {
+                  "_keys": [
+                    "text",
+                    "textColor",
+                    "typographyToken",
+                    "icon",
+                    "iconTintColor",
+                    "testInfo"
+                  ]
+                }
+              }
+            },
+            "popoverMenu": {
+              "size": "SIZE_400",
+              "styleType": "CUSTOM",
+              "icon": "ic_m_kebab_ios",
+              "common": {
+                "action": {
+                  "_keys": []
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "isHoverDisabled": true
+            },
+            "trackingInfo": {
+              "view": {
+                "actionType": "view",
+                "key": "ugc-questions-widgets1"
+              }
+            }
+          }
+        },
+        "questionAbuseReasons": {
+          "reasons": {
+            "_len": 2,
+            "_0": {
+              "value": "2",
+              "label": "Неприемлемое содержание"
+            }
+          }
+        },
+        "answerAbuseReasons": {
+          "reasons": {
+            "_len": 2,
+            "_0": {
+              "value": "2",
+              "label": "Неприемлемое содержание"
+            }
+          }
+        },
+        "constants": {
+          "answerUsefulnessQuestionText": "Вам помог этот ответ?",
+          "bestAnswerText": "Лучший ответ",
+          "chooseReportReasonText": "Укажите причину",
+          "copyUrlErrorText": "Ваш браузер не поддерживает данный функционал",
+          "copyUrlSuccessText": "Ссылка успешно скопирована",
+          "partnerDescription": "Этот пользователь может предоставлять разъяснения, официальную информацию и консультировать по вопросам, касающимся това",
+          "reportAnswerErrorText": "Расскажите, почему этот ответ должен быть удален",
+          "reportQuestionErrorText": "Расскажите, почему этот вопрос должен быть удален",
+          "reportReasonPlaceholderText": "Опишите причину подробнее",
+          "sendReportText": "Отправить жалобу"
+        },
+        "defaultErrorNotification": {
+          "title": "Произошла ошибка. Попробуйте еще раз",
+          "titleMaxLines": 4,
+          "rightContent": {
+            "buttonType": "NONE"
+          },
+          "common": {
+            "testInfo": {
+              "automatizationId": "qist-error-message"
+            }
+          },
+          "preset": "NEGATIVE"
+        }
+      },
+      "webCharacteristics-903456-default-1": {
+        "link": "https://ozon.by/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features/",
+        "characteristics": {
+          "_len": 1,
+          "_0": {
+            "short": {
+              "_len": 5,
+              "_0": {
+                "key": "RequiredApps",
+                "name": "Обязательные программы предустановлены",
+                "values": "list[1]",
+                "hintText": "На устройстве допускается отсутствие обязательных к предустановке программ, а в "
+              }
+            }
+          }
+        },
+        "productTitle": "Характеристики: Apple Смартфон iPhone 17 Pro eSIM 12/512 ГБ, eSIM, синий",
+        "lexemes": {
+          "allCharacteristicsText": "Все характеристики",
+          "ariaLabel": "Подсказка",
+          "collapseText": "Свернуть",
+          "moreText": "Подробнее",
+          "notificationError": "Ваш браузер не поддерживает данный функционал",
+          "shawAllCharacteristicsText": "Показать все характеристики",
+          "successfulCopyText": "Артикул скопирован"
+        },
+        "cellTrackingInfo": {
+          "uis": {
+            "main": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb",
+            "sku": "1oSo1RVMSM6DfVSj1K3xJEFVyKti3MBx",
+            "suggest": "1oSo1U_ZvlPs1gvIuGwnJ_kuzR9BozWV"
+          },
+          "tags": {
+            "Brand_0": "1oSo1TrDwm_qkzuU3hwYKcd3TpkXhqyr",
+            "ChargingFeatures_0": "1oSo1N_tMK1P-6_bKnm1fmZ71Egx7Vr4",
+            "Country_0": "1oSo1MlKpkkaZfSP-GQZ3sA3-ofRlpun",
+            "DegreeProtection_0": "1oSo1TUaa_5dmleBoKicEnA1GH6QV4uf",
+            "FormFactors_0": "1oSo1Z1TKOc0Ga02yijCZHWcie1l817E",
+            "InterfaceShort_0": "1oSo1YplKCePPmm5iRMJLALFISboghyA",
+            "MobilePhoneForm_0": "1oSo1Sy6tBYzuT2C6alIYvcUk0EVnBeL",
+            "NavigationOS_0": "1oSo1-Pc4H5TPURjHn73G7xy6wGgEU6g",
+            "OSWithoutVer_0": "1oSo1_vF_mwSL_ZuNwG6F3ypPMJcGALQ",
+            "QualityVideo_0": "1oSo1_h3CUgxiDANX7gzf52Jt_PEFkOn",
+            "Sensors_0": "1oSo1RRFPoixa9gw6enAwiMsIURpr0QL",
+            "SmartphoneRefreshRate_0": "1oSo1-RhbrwPg0oN6IQBH0_4IdrcoDdn",
+            "SmartphoneStab_0": "1oSo1QE6gRsZ18vlU6QppNdNpfxL6t_e",
+            "Support_eSim_0": "1oSo1UVmpZZZwfhQ85TwKOS1tPPfhJI9",
+            "VolumeMemoryPhone_0": "1oSo1-RGPOw9hGyqyM9xluMY1_2LfFXb",
+            "WirelessTechShort_0": "1oSo1TkFYrA5c6a29E9lz-n7neKLdTse",
+            "smartphoneram_0": "1oSo1YysK62UtO3tMuqGiAtXNiDHEeaR"
+          }
+        },
+        "trackingInfo": {
+          "view": {
+            "actionType": "view",
+            "key": "1oSo1SCH1vxH0yOM6knv5zlCIldGxyGb"
+          }
+        },
+        "params": {
+          "anchor": "",
+          "canExpand": false,
+          "columns": 1,
+          "dataType": "characteristics",
+          "disablePaidBrand": false,
+          "disclaimer": "",
+          "hintMaxLength": 1500,
+          "isShowTitleAsH1": false,
+          "isWidgetCharacteristicsOnPage": false,
+          "isWidgetDescriptionOnPage": false,
+          "limit": 5,
+          "linkToCharacteristics": "#section-characteristics",
+          "linkToCharacteristicsButtonText": "Перейти к характеристикам",
+          "linkToDescription": "#section-description",
+          "linkToDescriptionButtonText": "Перейти к описанию",
+          "linkToExternal": "",
+          "linkToExternalText": "Подробнее",
+          "markedDownLink": "https://docs.ozon.ru/common-mobile/discounted-products/",
+          "paramsLinkTarget": "self",
+          "showLongCharacteristics": true,
+          "theme": "default",
+          "thresholdLength": 60,
+          "title": "",
+          "topList": true,
+          "viewLine": "dotted",
+          "visibleCount": 5
+        }
+      },
+      "paginator-13806006-default-1": {
+        "prevPage": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions/?page_key=eyJsYXN0X3V1aWQiOiIwMTlmZ",
+        "nextPage": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions/?layout_page_index=2&page_key=eyJsY",
+        "size": 10,
+        "fetchType": "scroll",
+        "layoutContainer": "default"
+      },
+      "tagListModal-6929665-default-1": {
+        "tags": {
+          "_len": 35,
+          "_0": {
+            "text": "iPhone 18",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_REDIRECT",
+                "link": "/category/smartfon-apple-iphone18/"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "close": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "show": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "view": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "tagsCount": 10,
+        "trackingInfo": {
+          "click": {
+            "actionType": "click",
+            "key": "seo-widget-api35"
+          },
+          "open": {
+            "actionType": "open",
+            "key": "seo-widget-api35"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "seo-widget-api35"
+          }
+        },
+        "marginBottom": 20
+      }
+    }
+  },
+  "info_map": {
+    "pageType": "static_page",
+    "url": "/info/map/",
+    "families": [
+      "addressBookBarWeb",
+      "addressEditForm",
+      "addressEditLayout",
+      "addressEditLayoutContainer",
+      "addressEditLayoutLeft",
+      "addressEditLayoutWrapper",
+      "addressEditMap",
+      "brandListResults",
+      "catalogMenu",
+      "cityFilter",
+      "container",
+      "countryList",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "master",
+      "orderInfo",
+      "orderTracking",
+      "pageHeader",
+      "pageHeaderLight",
+      "profileMenuAnonymous",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "seoPageBanner",
+      "separator",
+      "tapTags"
+    ],
+    "n": 32,
+    "interesting": {
+      "master-3258453-default-1": {},
+      "footer-206535-default-1": {
+        "newFooter": {
+          "share": {
+            "image": "https://ir-3.ozone.ru/s3/cms/89/tad/qr-code_1_1.png",
+            "description": {
+              "text": "Наведите камеру и скачайте бесплатное приложение Ozon",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "columns": {
+            "_len": 3,
+            "_0": {
+              "links": {
+                "_len": 3,
+                "_0": {
+                  "_keys": [
+                    "link",
+                    "title",
+                    "trackingInfo"
+                  ]
+                }
+              }
+            }
+          },
+          "copyright": {
+            "link": "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+            "title": {
+              "text": "© 2021 - 2026 ООО «ОЗОН Маркет Бел». Все права защищены.",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            },
+            "description": {
+              "text": "Применяются <a href=\"https://docs.ozon.by/legal/terms-of-use/site/algorithms/\"> рекомендательные технологии</a>",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "socialButtons": {
+            "_len": 3,
+            "_0": {
+              "size": "SIZE_500",
+              "styleType": "CUSTOM",
+              "buttonShape": "SHAPE_SQUARE",
+              "icon": "ic_m_vk_filled",
+              "common": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "link",
+                    "params"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "click"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "backgroundColor": "bgOverlap"
+            }
+          },
+          "accessibilityButton": {
+            "size": "SIZE_500",
+            "title": "Для слабовидящих",
+            "icon": "ic_m_visually_impaired_filled",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_CUSTOM",
+                "id": "accessibilityMode"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          },
+          "hoverColor": "textAction",
+          "legalTerms": {
+            "textColor": "textTertiary",
+            "textAlignment": "CENTER",
+            "typographyToken": "tsBody400Small"
+          },
+          "backgroundColor": "layerFloor0"
+        }
+      }
+    }
+  },
+  "business": {
+    "pageType": "static_page",
+    "url": "/business",
+    "families": [
+      "customHtml"
+    ],
+    "n": 1,
+    "interesting": {}
+  },
+  "buy_again": {
+    "pageType": "static_page",
+    "url": "/buyAgain",
+    "families": [
+      "addressBookBarWeb",
+      "catalogMenu",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "skuGrid",
+      "skuShelfGoods",
+      "tapTags"
+    ],
+    "n": 18,
+    "interesting": {
+      "skuGrid-1696615-default-1": {
+        "header": {
+          "title": "Возможно, вам понравится"
+        },
+        "productContainer": {
+          "options": {
+            "itemsAreFaded": true,
+            "ratio": "3:4",
+            "columnsCount": 5,
+            "withGaps": false
+          },
+          "products": {
+            "_len": 30,
+            "_0": {
+              "isFavorite": false,
+              "items": {
+                "_len": 1,
+                "_0": {
+                  "_keys": [
+                    "type",
+                    "image"
+                  ]
+                }
+              },
+              "link": "/product/logitech-naushniki-provodnye-s-mikrofonom-logitech-g435-bluetooth-usb-type-c-chernyy-5394102527/?at=1oSo1RLgB7S",
+              "shouldBlur": false,
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_REDIRECT",
+                "link": "/product/logitech-naushniki-provodnye-s-mikrofonom-logitech-g435-bluetooth-usb-t"
+              },
+              "button": {
+                "type": "addToCartButtonWithQuantity",
+                "addToCartButtonWithQuantity": {
+                  "_keys": [
+                    "text",
+                    "maxItems",
+                    "currentItems",
+                    "action",
+                    "trackingInfo",
+                    "testInfo",
+                    "theme",
+                    "mode",
+                    "buttonIconId",
+                    "qtyTextDisabled",
+                    "buttonSizeMode",
+                    "extendMap"
+                  ]
+                }
+              },
+              "state": {
+                "_len": 5,
+                "_0": {
+                  "_keys": [
+                    "type",
+                    "priceV2"
+                  ]
+                }
+              },
+              "alt": "Logitech Наушники проводные с микрофоном Logitech G435, Bluetooth, USB Type-C, черный Возможно, вам понравится",
+              "isAdult": false,
+              "topRightButtons": {
+                "_len": 1,
+                "_0": {
+                  "_keys": [
+                    "type",
+                    "favoriteProductMoleculeV2"
+                  ]
+                }
+              },
+              "skuId": "5394102527",
+              "trackingInfo": {
+                "right_click": {
+                  "_keys": [
+                    "actionType",
+                    "key",
+                    "custom"
+                  ]
+                },
+                "aux_click": {
+                  "_keys": [
+                    "actionType",
+                    "key",
+                    "custom"
+                  ]
+                },
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key",
+                    "custom"
+                  ]
+                },
+                "view": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "widgetOptions": {
+          "imageAlign": "",
+          "keepScrollPosition": false
+        },
+        "abMap": {
+          "tileExpFE1": true
+        }
+      },
+      "footer-1353744-default-1": {
+        "newFooter": {
+          "share": {
+            "image": "https://ir-3.ozone.ru/s3/cms/89/tad/qr-code_1_1.png",
+            "description": {
+              "text": "Наведите камеру и скачайте бесплатное приложение Ozon",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "columns": {
+            "_len": 3,
+            "_0": {
+              "links": {
+                "_len": 3,
+                "_0": {
+                  "_keys": [
+                    "link",
+                    "title",
+                    "trackingInfo"
+                  ]
+                }
+              }
+            }
+          },
+          "copyright": {
+            "link": "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+            "title": {
+              "text": "© 2021 - 2026 ООО «ОЗОН Маркет Бел». Все права защищены.",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            },
+            "description": {
+              "text": "Применяются <a href=\"https://docs.ozon.by/legal/terms-of-use/site/algorithms/\"> рекомендательные технологии</a>",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "socialButtons": {
+            "_len": 3,
+            "_0": {
+              "size": "SIZE_500",
+              "styleType": "CUSTOM",
+              "buttonShape": "SHAPE_SQUARE",
+              "icon": "ic_m_vk_filled",
+              "common": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "link",
+                    "params"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "click"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "backgroundColor": "bgOverlap"
+            }
+          },
+          "accessibilityButton": {
+            "size": "SIZE_500",
+            "title": "Для слабовидящих",
+            "icon": "ic_m_visually_impaired_filled",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_CUSTOM",
+                "id": "accessibilityMode"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          },
+          "hoverColor": "textAction",
+          "legalTerms": {
+            "textColor": "textTertiary",
+            "textAlignment": "CENTER",
+            "typographyToken": "tsBody400Small"
+          },
+          "backgroundColor": "layerFloor0"
+        }
+      }
+    }
+  },
+  "compare": {
+    "error": "NotFound: 404 https://ozon.by/api/entrypoint-api.bx/page/json/v2?url=%2Fcompare"
+  },
+  "premium": {
+    "error": "TransportError: fetch failed in page: TypeError: Failed to fetch"
+  },
+  "highlights_index": {
+    "error": "NotFound: 404 https://ozon.by/api/entrypoint-api.bx/page/json/v2?url=%2Fhighlight%2F"
+  },
+  "brands_index": {
+    "pageType": "static_page",
+    "url": "/brand/",
+    "families": [
+      "addressBookBarWeb",
+      "brandListCaption",
+      "brandListFilter",
+      "brandListResults",
+      "catalogMenu",
+      "container",
+      "favoriteCounter",
+      "footer",
+      "header",
+      "headerIcon",
+      "horizontalMenu",
+      "objectThumbnailList",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "searchBarDesktop",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tapTags"
+    ],
+    "n": 21,
+    "interesting": {
+      "footer-208358-default-1": {
+        "newFooter": {
+          "share": {
+            "image": "https://ir-3.ozone.ru/s3/cms/89/tad/qr-code_1_1.png",
+            "description": {
+              "text": "Наведите камеру и скачайте бесплатное приложение Ozon",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "columns": {
+            "_len": 3,
+            "_0": {
+              "links": {
+                "_len": 3,
+                "_0": {
+                  "_keys": [
+                    "link",
+                    "title",
+                    "trackingInfo"
+                  ]
+                }
+              }
+            }
+          },
+          "copyright": {
+            "link": "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+            "title": {
+              "text": "© 2021 - 2026 ООО «ОЗОН Маркет Бел». Все права защищены.",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            },
+            "description": {
+              "text": "Применяются <a href=\"https://docs.ozon.by/legal/terms-of-use/site/algorithms/\"> рекомендательные технологии</a>",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "socialButtons": {
+            "_len": 3,
+            "_0": {
+              "size": "SIZE_500",
+              "styleType": "CUSTOM",
+              "buttonShape": "SHAPE_SQUARE",
+              "icon": "ic_m_vk_filled",
+              "common": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "link",
+                    "params"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "click"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "backgroundColor": "bgOverlap"
+            }
+          },
+          "accessibilityButton": {
+            "size": "SIZE_500",
+            "title": "Для слабовидящих",
+            "icon": "ic_m_visually_impaired_filled",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_CUSTOM",
+                "id": "accessibilityMode"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          },
+          "hoverColor": "textAction",
+          "legalTerms": {
+            "textColor": "textTertiary",
+            "textAlignment": "CENTER",
+            "typographyToken": "tsBody400Small"
+          },
+          "backgroundColor": "layerFloor0"
+        }
+      }
+    }
+  },
+  "context_search": {
+    "pageType": "category",
+    "url": "/category/smartfony-15502/apple-26303000/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone",
+    "families": [
+      "addressBookBarWeb",
+      "catalogMenu",
+      "column",
+      "container",
+      "favoriteCounter",
+      "filtersDesktop",
+      "footer",
+      "header",
+      "headerIcon",
+      "homeButton",
+      "horizontalMenu",
+      "infiniteVirtualPaginator",
+      "orderInfo",
+      "orderTracking",
+      "profileMenuAnonymous",
+      "row",
+      "searchBarDesktop",
+      "searchResultsFiltersActive",
+      "searchResultsSort",
+      "selectedCurrencyLanguage",
+      "separator",
+      "tagListModal",
+      "tapTags",
+      "tileGridDesktop",
+      "wallpaper"
+    ],
+    "n": 32,
+    "interesting": {
+      "filtersDesktop-3124459-default-1": {
+        "sections": {
+          "_len": 2,
+          "_0": {
+            "filters": {
+              "_len": 1,
+              "_0": {
+                "type": "categoryFilter",
+                "key": "category",
+                "trackingInfo": {
+                  "_keys": [
+                    "view"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                },
+                "categoryFilter": {
+                  "_keys": [
+                    "title",
+                    "categories"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "showAllButton": {
+          "text": "Все фильтры",
+          "action": {
+            "behavior": "BEHAVIOR_TYPE_COMPOSER_NESTED_PAGE",
+            "link": "/modal/allFilters/category/smartfony-15502/apple-26303000/?category_was_predicted=true&deny_category_prediction=true&fro",
+            "params": {
+              "theme": "fullScreen"
+            }
+          },
+          "trackingInfo": {
+            "click": {
+              "actionType": "click",
+              "key": "catalog-api58"
+            }
+          },
+          "testInfo": {
+            "automatizationId": "show-all-button"
+          },
+          "theme": "STYLE_TYPE_SECONDARY_SMALL",
+          "size": "L"
+        },
+        "applySearchFilters": {
+          "behavior": "BEHAVIOR_TYPE_COMPOSER_ACTION",
+          "link": "applyCatalogFilters",
+          "params": {
+            "baseLink": "/category/smartfony-15502/apple-26303000/?category_was_predicted=true&deny_category_prediction=true&from_global=true&tex"
+          }
+        },
+        "debounceTime": 0,
+        "view": "list",
+        "lexems": {},
+        "abFeatures": {
+          "uiFiltersPersistenceConfig": "{\\\"pageTypes\\\":[\\\"search\\\",\\\"category\\\"],\\\"filters\\\":[\\\"currency_price\\\",\\\"delivery\\\",\\\"is_promo\\\",\\\"brandcertified\\\",\\\""
+        },
+        "searchBar": {
+          "placeholder": "Поиск по всем фильтрам",
+          "searchAction": {
+            "behavior": "BEHAVIOR_TYPE_COMPOSER_ACTION",
+            "link": "v2/searchFiltersDesktop",
+            "params": {
+              "baseLink": "/category/smartfony-15502/apple-26303000/?category_was_predicted=true&deny_category_prediction=true&from_global=true&tex"
+            }
+          }
+        }
+      },
+      "infiniteVirtualPaginator-3618992-default-1": {
+        "prevPage": "/category/smartfony-15502/apple-26303000/?category_was_predicted=true&deny_category_prediction=true&from_global=true&pag",
+        "nextPage": "/category/smartfony-15502/apple-26303000/?category_was_predicted=true&deny_category_prediction=true&from_global=true&lay",
+        "size": 10,
+        "fetchType": "virtualScroll",
+        "layoutContainer": "default"
+      },
+      "footer-3669971-default-1": {
+        "newFooter": {
+          "share": {
+            "image": "https://ir-3.ozone.ru/s3/cms/89/tad/qr-code_1_1.png",
+            "description": {
+              "text": "Наведите камеру и скачайте бесплатное приложение Ozon",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "columns": {
+            "_len": 3,
+            "_0": {
+              "links": {
+                "_len": 3,
+                "_0": {
+                  "_keys": [
+                    "link",
+                    "title",
+                    "trackingInfo"
+                  ]
+                }
+              }
+            }
+          },
+          "copyright": {
+            "link": "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+            "title": {
+              "text": "© 2021 - 2026 ООО «ОЗОН Маркет Бел». Все права защищены.",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            },
+            "description": {
+              "text": "Применяются <a href=\"https://docs.ozon.by/legal/terms-of-use/site/algorithms/\"> рекомендательные технологии</a>",
+              "textColor": "textTertiary",
+              "typographyToken": "tsBody400Small"
+            }
+          },
+          "socialButtons": {
+            "_len": 3,
+            "_0": {
+              "size": "SIZE_500",
+              "styleType": "CUSTOM",
+              "buttonShape": "SHAPE_SQUARE",
+              "icon": "ic_m_vk_filled",
+              "common": {
+                "action": {
+                  "_keys": [
+                    "behavior",
+                    "link",
+                    "params"
+                  ]
+                },
+                "trackingInfo": {
+                  "_keys": [
+                    "click"
+                  ]
+                },
+                "testInfo": {
+                  "_keys": [
+                    "automatizationId"
+                  ]
+                }
+              },
+              "iconColor": "graphicTertiary",
+              "backgroundColor": "bgOverlap"
+            }
+          },
+          "accessibilityButton": {
+            "size": "SIZE_500",
+            "title": "Для слабовидящих",
+            "icon": "ic_m_visually_impaired_filled",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_CUSTOM",
+                "id": "accessibilityMode"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          },
+          "hoverColor": "textAction",
+          "legalTerms": {
+            "textColor": "textTertiary",
+            "textAlignment": "CENTER",
+            "typographyToken": "tsBody400Small"
+          },
+          "backgroundColor": "layerFloor0"
+        }
+      },
+      "tagListModal-6929665-default-1": {
+        "tags": {
+          "_len": 35,
+          "_0": {
+            "text": "iPhone 18",
+            "common": {
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_REDIRECT",
+                "link": "/category/smartfon-apple-iphone18/"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "close": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "show": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                },
+                "view": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "tagsCount": 10,
+        "trackingInfo": {
+          "click": {
+            "actionType": "click",
+            "key": "seo-widget-api35"
+          },
+          "open": {
+            "actionType": "open",
+            "key": "seo-widget-api35"
+          },
+          "view": {
+            "actionType": "view",
+            "key": "seo-widget-api35"
+          }
+        },
+        "marginBottom": 20
+      },
+      "searchResultsSort-10481593-default-1": {
+        "sortButton": {
+          "options": {
+            "_len": 6,
+            "_0": {
+              "name": "Популярные",
+              "action": {
+                "behavior": "BEHAVIOR_TYPE_REDIRECT",
+                "link": "/category/smartfony-15502/apple-26303000/?category_was_predicted=true&deny_categ"
+              },
+              "trackingInfo": {
+                "click": {
+                  "_keys": [
+                    "actionType",
+                    "key"
+                  ]
+                }
+              },
+              "isSelected": true,
+              "testInfo": {
+                "automatizationId": "option-SORT_TYPE_RELEVANCY"
+              }
+            }
+          },
+          "trackingInfo": {
+            "click": {
+              "actionType": "click",
+              "key": "catalog-api59"
+            },
+            "view": {
+              "actionType": "view",
+              "key": "catalog-api59"
+            }
+          },
+          "testInfo": {
+            "automatizationId": "sortings"
+          }
+        },
+        "abFeatures": {
+          "uiFiltersPersistenceConfig": "{\\\"pageTypes\\\":[\\\"search\\\",\\\"category\\\"],\\\"filters\\\":[\\\"currency_price\\\",\\\"delivery\\\",\\\"is_promo\\\",\\\"brandcertified\\\",\\\""
+        }
+      }
+    }
+  }
+}

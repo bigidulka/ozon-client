@@ -1,0 +1,676 @@
+{
+  "review_sortings": [
+    {
+      "name": "новые и полезные",
+      "value": "usefulness_desc",
+      "active": true
+    },
+    {
+      "name": "с высокой оценкой",
+      "value": "score_desc",
+      "active": false
+    },
+    {
+      "name": "с низкой оценкой",
+      "value": "score_asc",
+      "active": false
+    }
+  ],
+  "review_filters_keys": [
+    "withPhotos",
+    "withMedia"
+  ],
+  "review_filters": {
+    "withPhotos": null,
+    "withMedia": null
+  },
+  "paging": {
+    "total": 47,
+    "commonTotal": 47,
+    "page": 1,
+    "perPage": 30,
+    "nextButton": "?page=2&page_key=COHOvbsPEgwIpe2MzQYQiPjR0wIYBSAC&sort=usefulness_desc",
+    "prevButton": ""
+  },
+  "paging_links": [
+    {
+      "text": "1",
+      "urlParams": ""
+    },
+    {
+      "text": "2",
+      "urlParams": "?page=2&page_key=COHOvbsPEgwIpe2MzQYQiPjR0wIYBSAC&sort=usefulness_desc"
+    }
+  ],
+  "review_keys": [
+    "HasContextQuestionsByProduct",
+    "Lang",
+    "OrderType",
+    "abuseReportTrackingInfo",
+    "author",
+    "badge",
+    "badgeDelivery",
+    "comments",
+    "content",
+    "createdAt",
+    "editUrl",
+    "isAbuseReported",
+    "isAnchor",
+    "isAnonymous",
+    "isCommentable",
+    "isDeletable",
+    "isDeleted",
+    "isEditable",
+    "isEdited",
+    "isItemPurchased",
+    "isRejected",
+    "isReportable",
+    "isUserReview",
+    "isVotable",
+    "itemId",
+    "publishedAt",
+    "reviewLabel",
+    "sharing",
+    "showVariantImage",
+    "status",
+    "statusId",
+    "translateButton",
+    "updatedAt",
+    "usefulness",
+    "uuid",
+    "version"
+  ],
+  "content_type": "dict",
+  "content_keys": [
+    "comment",
+    "contextQuestions",
+    "negative",
+    "photos",
+    "positive",
+    "score",
+    "videos"
+  ],
+  "content_sample": {
+    "comment": "пришел вовремя, коробка не вскрыта, сам товар описывать смысла нет, и так понятн",
+    "positive": "",
+    "negative": "",
+    "videos": 0,
+    "photos": 1,
+    "contextQuestions": 0,
+    "score": 5
+  },
+  "review_top_noncontent": {
+    "sharing": [
+      "url",
+      "items",
+      "sharingTrackingInfo"
+    ],
+    "editUrl": "",
+    "updatedAt": null,
+    "publishedAt": 1772961207,
+    "author": [
+      "clientOfficial",
+      "avatarUrl",
+      "guid",
+      "firstName",
+      "lastName",
+      "fio",
+      "officialUser",
+      "isLegal",
+      "topAuthorUser"
+    ],
+    "status": [
+      "name",
+      "id"
+    ],
+    "usefulness": [
+      "useful",
+      "unuseful",
+      "userSelection"
+    ],
+    "itemId": "3094054833",
+    "createdAt": 1772961207,
+    "version": 0,
+    "statusId": 5,
+    "uuid": "019cccb9-041c-7bd9-ac03-3e585f2b9b35",
+    "isDeletable": false,
+    "isEdited": false,
+    "isEditable": false,
+    "isVotable": false,
+    "isReportable": false,
+    "isDeleted": false,
+    "isRejected": false,
+    "isAbuseReported": false,
+    "isAnchor": false,
+    "abuseReportTrackingInfo": [
+      "click"
+    ],
+    "comments": [
+      "list",
+      "totalCount"
+    ],
+    "isCommentable": false,
+    "isAnonymous": false,
+    "showVariantImage": false,
+    "isUserReview": false,
+    "isItemPurchased": false,
+    "translateButton": null,
+    "badgeDelivery": null,
+    "badge": null,
+    "OrderType": 1,
+    "HasContextQuestionsByProduct": true,
+    "Lang": "ru",
+    "reviewLabel": null
+  },
+  "gallery_keys": [],
+  "gallery_sample": {},
+  "product_tabs": [
+    {
+      "title": "Характеристики",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features",
+      "counter": null
+    },
+    {
+      "title": "Отзывы",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews",
+      "counter": "47"
+    },
+    {
+      "title": "Вопросы",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions",
+      "counter": "35"
+    },
+    {
+      "title": "Фото и видео",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/videos",
+      "counter": "14"
+    }
+  ],
+  "active": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews",
+  "q_sorts": [
+    {
+      "title": "Сначала новые",
+      "value": "created_at_desc"
+    },
+    {
+      "title": "Сначала полезные",
+      "value": "usefulness_desc"
+    },
+    {
+      "title": "Сначала с ответом",
+      "value": "has_answers_desc"
+    },
+    {
+      "title": "Сначала без ответа",
+      "value": "has_answers_asc"
+    }
+  ],
+  "question_keys": [
+    "actions",
+    "answers",
+    "author",
+    "createdAt",
+    "itemId",
+    "popoverMenu",
+    "questionUuid",
+    "reactions",
+    "text",
+    "trackingInfo"
+  ],
+  "answer_keys": [
+    "actions",
+    "answerUuid",
+    "author",
+    "createdAt",
+    "popoverMenu",
+    "reactions",
+    "text",
+    "trackingInfo"
+  ],
+  "q_tabs": [
+    {
+      "title": "Характеристики",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/features",
+      "counter": null
+    },
+    {
+      "title": "Отзывы",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/reviews",
+      "counter": "47"
+    },
+    {
+      "title": "Вопросы",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/questions",
+      "counter": "35"
+    },
+    {
+      "title": "Фото и видео",
+      "value": "/product/apple-smartfon-iphone-17-pro-esim-12-512-gb-esim-siniy-3094054833/videos",
+      "counter": "14"
+    }
+  ],
+  "pdp_review_widgets": {
+    "webReviewTabs-12252227-pdpReviews-2": {
+      "activeValueTab": "reviews",
+      "tabs": [
+        {
+          "title": "Отзывы о товаре",
+          "value": "reviews",
+          "counter": "47"
+        },
+        {
+          "title": "Вопросы о товаре",
+          "value": "questions",
+          "counter": "35"
+        }
+      ]
+    },
+    "webAsyncContainer-12252206-pdpReviews-2": {
+      "defaultUrl": "/product/3094054833/reviews/pdp-part"
+    },
+    "textBlock-12252224-pdpReviews-2": {
+      "title": "Как спросить о сервисе Ozon?",
+      "body": [
+        {
+          "type": "textAtom",
+          "textAtom": {
+            "text": "О сервисе Ozon, доставке и состоянии заказа вы можете узнать в <a href='/my/main/'>Личном кабинете</a> или в чате с <a href='/my/chat/'>Поддержкой Ozon</a>",
+            "textStyle": "tsBodyM",
+            "textColor": "ozTextPrimary",
+            "testInfo": {
+              "automatizationId": "text-atom"
+            }
+          }
+        }
+      ],
+      "atomSpacing": 12
+    }
+  },
+  "fav_tabs": [
+    {
+      "title": "Избранное",
+      "link": null,
+      "indicator": "0"
+    },
+    {
+      "title": "Подборки",
+      "link": "/selections/list",
+      "indicator": "0"
+    },
+    {
+      "title": "Вишлисты",
+      "link": "/my/favorites/lists",
+      "indicator": "0"
+    },
+    {
+      "title": "Магазины и Бренды",
+      "link": "/my/favorites/sellers",
+      "indicator": "0"
+    }
+  ],
+  "sort_options": [
+    {
+      "name": "Популярные",
+      "link": "/category/elektronika-15500/?sorting=score",
+      "selected": true
+    },
+    {
+      "name": "Новинки",
+      "link": "/category/elektronika-15500/?sorting=new",
+      "selected": false
+    },
+    {
+      "name": "Дешевле",
+      "link": "/category/elektronika-15500/?sorting=price",
+      "selected": false
+    },
+    {
+      "name": "Дороже",
+      "link": "/category/elektronika-15500/?sorting=price_desc",
+      "selected": false
+    },
+    {
+      "name": "С высоким рейтингом",
+      "link": "/category/elektronika-15500/?sorting=rating",
+      "selected": false
+    },
+    {
+      "name": "С большими скидками",
+      "link": "/category/elektronika-15500/?sorting=discount",
+      "selected": false
+    }
+  ],
+  "hcat_keys": [
+    "items",
+    "hoverColor",
+    "menuId",
+    "onlyRootNodes",
+    "titleForShowMoreButton",
+    "titleForCloseMoreButton"
+  ],
+  "hcat_items": [
+    {
+      "title": "Бытовая техника",
+      "link": "/category/bytovaya-tehnika-10500/"
+    },
+    {
+      "title": "Телефоны и смарт-часы",
+      "link": "/category/telefony-i-smart-chasy-15501/"
+    },
+    {
+      "title": "Телевизоры",
+      "link": "/category/televizory-15528/"
+    },
+    {
+      "title": "Ноутбуки и планшеты",
+      "link": "/category/noutbuki-planshety-i-elektronnye-knigi-8730/"
+    },
+    {
+      "title": "Компьютеры",
+      "link": "/category/kompyutery-i-komplektuyushchie-15690/"
+    },
+    {
+      "title": "Наушники и аудиотехника",
+      "link": "/category/audiotehnika-15543/"
+    },
+    {
+      "title": "Умный дом",
+      "link": "/category/umnyy-dom-15849/"
+    },
+    {
+      "title": "Игровые приставки и ноутбуки",
+      "link": "/category/igrovye-pristavki-i-kompyutery-15800/"
+    },
+    {
+      "title": "Охранные системы",
+      "link": "/category/umnyy-dom-i-bezopasnost-15835/"
+    },
+    {
+      "title": "Офисная техника",
+      "link": "/category/ofisnaya-tehnika-15770/"
+    },
+    {
+      "title": "Аксессуары для электроники",
+      "link": "/category/aksessuary-dlya-elektroniki-15879/"
+    },
+    {
+      "title": "Фото и видеокамеры",
+      "link": "/category/foto-i-videokamery-15623/"
+    },
+    {
+      "title": "Навигаторы",
+      "link": "/category/navigatory-15685/"
+    },
+    {
+      "title": "Оптические приборы",
+      "link": "/category/opticheskie-pribory-15984/"
+    },
+    {
+      "title": "Квадрокоптеры и аксессуары",
+      "link": "/category/kvadrokoptery-i-aksessuary-7159/"
+    }
+  ],
+  "filter_sections": [
+    {
+      "section_keys": [
+        "filters"
+      ],
+      "title": null,
+      "nfilters": 1,
+      "filters_head": [
+        {
+          "key": "category",
+          "type": "categoryFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "categoryFilter"
+          ]
+        }
+      ]
+    },
+    {
+      "section_keys": [
+        "filters"
+      ],
+      "title": null,
+      "nfilters": 12,
+      "filters_head": [
+        {
+          "key": "is_promo",
+          "type": "boolFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "boolFilter"
+          ]
+        },
+        {
+          "key": "delivery",
+          "type": "checkboxesFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "checkboxesFilter"
+          ]
+        },
+        {
+          "key": "currency_price",
+          "type": "rangeFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "rangeFilter"
+          ]
+        },
+        {
+          "key": "brand",
+          "type": "checkboxesFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "checkboxesFilter"
+          ]
+        },
+        {
+          "key": "brandcertified",
+          "type": "boolFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "boolFilter"
+          ]
+        },
+        {
+          "key": "is_official_brand_seller",
+          "type": "boolFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "boolFilter"
+          ]
+        },
+        {
+          "key": "type",
+          "type": "checkboxesFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "checkboxesFilter"
+          ]
+        },
+        {
+          "key": "exactmodels",
+          "type": "checkboxesFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "checkboxesFilter"
+          ]
+        },
+        {
+          "key": "country",
+          "type": "checkboxesFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "checkboxesFilter"
+          ]
+        },
+        {
+          "key": "color",
+          "type": "colorFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "colorFilter"
+          ]
+        },
+        {
+          "key": "isdiscount",
+          "type": "boolFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "boolFilter"
+          ]
+        },
+        {
+          "key": "seller",
+          "type": "checkboxesFilter",
+          "keys": [
+            "type",
+            "key",
+            "trackingInfo",
+            "testInfo",
+            "checkboxesFilter"
+          ]
+        }
+      ]
+    }
+  ],
+  "filters_top": [
+    "sections",
+    "showAllButton",
+    "applySearchFilters",
+    "debounceTime",
+    "view",
+    "lexems",
+    "abFeatures",
+    "searchBar"
+  ],
+  "footer_keys": [
+    "newFooter"
+  ],
+  "footer_links": [
+    "//docs.ozon.by/legal/terms-of-use/site/content-policy/?perehod=footer",
+    "https://corp.ozon.ru/",
+    "https://docs.ozon.by/common/dostavka/sposoby-dostavki/",
+    "https://docs.ozon.by/common/kontakty/",
+    "https://docs.ozon.by/common/oplata/payment-ways/",
+    "https://docs.ozon.by/common/returns/how-to-return/",
+    "https://docs.ozon.by/legal/personal-data/by/",
+    "https://docs.ozon.by/legal/terms-of-use/site/algorithms/",
+    "https://ok.ru/ozon/?perehod=footer",
+    "https://ozon.kz/",
+    "https://t.me/ozonru/?perehod=footer",
+    "https://vk.com/ozon/?perehod=footer",
+    "https://www.ozon.uz/"
+  ],
+  "tile_keys": [
+    "action",
+    "brandLogo",
+    "id",
+    "isAdult",
+    "mainState",
+    "multiButton",
+    "sku",
+    "tileImage",
+    "topRightButtons",
+    "trackingInfo"
+  ],
+  "tile_mainstate_types": [
+    [
+      "priceV2",
+      "type"
+    ],
+    [
+      "id",
+      "textDS",
+      "type"
+    ],
+    [
+      "labelListV2",
+      "type"
+    ]
+  ],
+  "tile_action_keys": [
+    "behavior",
+    "link",
+    "params"
+  ],
+  "summary": {},
+  "menu_keys": [
+    "trackingInfo",
+    "trackingPayloads",
+    "trackingTokenAliases",
+    "data"
+  ],
+  "menu_n": 0,
+  "menu_sample": [],
+  "address_keys": [
+    "trackingInfo",
+    "trackingPayloads",
+    "trackingTokenAliases",
+    "data"
+  ],
+  "address_sample": {
+    "trackingInfo": null,
+    "trackingPayloads": [],
+    "trackingTokenAliases": null,
+    "data": [
+      "tooltipBody",
+      "trackingInfo"
+    ]
+  },
+  "horizontal_keys": [
+    "trackingInfo",
+    "trackingPayloads",
+    "trackingTokenAliases",
+    "data"
+  ],
+  "horizontal_brief": {
+    "trackingInfo": null,
+    "trackingPayloads": [],
+    "trackingTokenAliases": null,
+    "data": [
+      "items",
+      "hoverColor",
+      "menuId"
+    ]
+  }
+}
